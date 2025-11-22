@@ -5,12 +5,22 @@
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251121022F59
 https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/saldiz1hstngwipnte7rlav0t8v2bpmdvvpn/playlist.m3u8?hdnts=st=1763718443~exp=1763750853~acl=*/saldiz1hstngwipnte7rlav0t8v2bpmdvvpn/*~hmac=9cbb512c02512e3830e38c5a4d2ede6521fbaf9a94833334cb0e3a57b518c46e
 
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 19:30 WIB Austria vs Jepang
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Italia vs Burkina Faso
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=KmQudnuAoYJAsiLBJnm0WwEnR7lf3uZ8qM8IxGFSwOBwjimeueTnFXA8WxRskF1B69pkdUbDNoyO3K1DJ4LRTan8klwfAxqm0L9KczMZBjM=
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_03_affd9b78-9289-473a-a0e5-27bee815201b/PROD_CMAF_CENC/index-dash.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=PmrYPanplHTaF6QmUIodfi3zExJ-Asv0Z0_0cvD3SjlDhew_ncW5vjCo7Fi6PUgokhEaNJ1ysJ4OBrwvZJzvWM2WAQQmNdFCeafgRSgFotE=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_09_925503ef-ead8-4aa4-960a-edf80eb21cf3/PROD_CMAF_CENC/index-dash.mpd
+
+#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Portugal vs Swiss
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=lFr2hH915UHCwaJGgOCU6QNS0vDLkTFKZhcMqk9ADP1GyfhbERmo8BklxWDDSEhYn9Xxvk1nXz2i-r0fI4UNgs2IVOQKIAPDg2MlnJkv0bY=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_15_84e169f4-49ad-41e1-b456-1e2623ae4b1d/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Maroko vs Brasil
 #KODIPROP:inputstream.adaptive.license_type=clearkey

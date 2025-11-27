@@ -1,5 +1,5 @@
 
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Daejeon KGC W vs Pepper Savings Bank W
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Daejeon KGC W vs Pepper Savings Bank W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251121022F59
@@ -13,35 +13,35 @@
 
 #========================
 
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Italia vs Burkina Faso
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Italia vs Burkina Faso
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=PmrYPanplHTaF6QmUIodfi3zExJ-Asv0Z0_0cvD3SjlDhew_ncW5vjCo7Fi6PUgokhEaNJ1ysJ4OBrwvZJzvWM2WAQQmNdFCeafgRSgFotE=
 https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_09_925503ef-ead8-4aa4-960a-edf80eb21cf3/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Portugal vs Swiss
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Portugal vs Swiss
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=lFr2hH915UHCwaJGgOCU6QNS0vDLkTFKZhcMqk9ADP1GyfhbERmo8BklxWDDSEhYn9Xxvk1nXz2i-r0fI4UNgs2IVOQKIAPDg2MlnJkv0bY=
 https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_15_84e169f4-49ad-41e1-b456-1e2623ae4b1d/PROD_CMAF_CENC/index-dash.mpd
 
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Maroko vs Brasil
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Maroko vs Brasil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 <================>
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="BRI LIGA SUPER",BRI 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg" group-title="EVENT",BRI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="BRI LIGA SUPER",BRI SUPER 1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg" group-title="EVENT",BRI SUPER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
@@ -56,10 +56,14 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="Channel Indonesia",Indosiar HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="NASIONAL TV",INDOSIAR DIGITAL
-http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
+#http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 
 #EXTINF:-1 tvg-id="sctv - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PKXhU1Wbv2gnl1zHov4odufJUpww4Io1yA&s" group-title="NASIONAL TV", SCTV
@@ -115,7 +119,7 @@ https://popmi.my.id/tes.m3u8?id=782
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jWaIWbSyUoOND8iQ62WkIanAkdo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="NASIONAL TV",ANTV digital jkt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+#http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 

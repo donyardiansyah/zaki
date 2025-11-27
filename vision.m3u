@@ -250,13 +250,15 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Oli8.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV",MDTV 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+$http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV",MDTV HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png" group-title="NASIONAL TV" , NET TV/MDTV VIP
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/348/2025/02/25/6190412213303492665-3435062896.jpg", MDTV VDO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -265,6 +267,14 @@ https://popmi.my.id/tes.m3u8?id=875
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.pinimg.com/474x/73/6b/5d/736b5de459e7ffbc4955100246a31b9e.jpg",NUSANTARATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+
+
+
+#EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="NASIONAL TV" ,SINPO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
 
 #EXTINF:-1 tvg-id="Kompastv" tvg-name="Tvone" tvg-logo="https://thumbor.prod.vidiocdn.com/ALtHeA-1MMsZqKlyPAX8RMDvFF8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-396453.jpg" group-title="NASIONAL TV", Kompastv 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/

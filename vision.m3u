@@ -14,8 +14,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play.instreamtv.pro/sport/202_4312865_1.m3u8?sign=bSDqvI3I7iFKtKmmyZWuoTh_llMNaVP6khGAUb5PO-6tVOmsW7iPh_xoMwgqeqiwfPnH0YzvIOBPsJpUwscqco_A_kkpTrIjU3vAOp0IAWNe1Xj513k6nmXtGlL1dF3Qz4YniZ3oLIKBRiq2f-Svwcgkc-OUJNSa-kupLVuyE3dBuS1mnwkg4wPWIWUDF5jcE4l98dWe77iwHOY43VJrwDJ_8oFyuSXJuamx5AQgXu-eyYr8Nj1T4PRXesz8uXegV-lKqxtoV0_s5BrIWrb_s0w_Pzo3T6SimEFOqi7EdsAwNxU4B7N_mPEcwEORrBTvO76JoD5azq4yEZbBhndbAQ&timestamp=1764321141328
-
+https://play.instreamtv.pro/sport/202_4312890_1.m3u8?sign=BpVaed-9e8lfnQ9wmGHiv28bufA-AltQcjZ7b10POGXf6gJLbqdgJbxY2CbouAXUjceoQHOmUMdSsAthcGfet2fi0Uo11j5Ouu_5ngQmh2n3o2-ET2KlvqEpf_ZhpA4Ygrt9TTIqOYzEriOKOoAGJ6X99WnYYULcXDQrVbXqL17S3CWOnU_MGZSVoEnhhpokrMT5C_AHCAPWZQ4wA3EjE4qqrkspc4elEo9NVsmEEMiwSFOF7FsxK29TIuZD_4WAJYa16L0mXOwrhSud07yEj6rbXcaOsu9DZLVOgIZQkvNefNIaZK637wmjSqPknaviyPsBxSsjN9-ehOYd1vvWnA&timestamp=1764332648761
 ========================
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Italia vs Burkina Faso
@@ -55,11 +54,11 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSBS Biak Numfor vs Persijap
 
 https://play.live8818.com/nami/sd-6MuTNFjrRYLZP6VNQs.m3u8
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persebaya Surabaya
-https://play.live8818.com/nami/sd-6MuTNFkaujb4A3Reg3.m3u8
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA 1 BRI
+https://play.live8818.com/nami/sd-6MuTNFjpkkoJXnWnf5.m3u8
 
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persebaya Surabaya
-https://shorter.me/V2CJJ
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA SUPER 
+https://live.inplyr.com/room/434982.m3u8
 
 ========= NASIONAL TV--=====
 

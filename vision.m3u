@@ -10,6 +10,11 @@
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
 
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", liga1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play.instreamtv.pro/sport/202_4312865_1.m3u8?sign=bSDqvI3I7iFKtKmmyZWuoTh_llMNaVP6khGAUb5PO-6tVOmsW7iPh_xoMwgqeqiwfPnH0YzvIOBPsJpUwscqco_A_kkpTrIjU3vAOp0IAWNe1Xj513k6nmXtGlL1dF3Qz4YniZ3oLIKBRiq2f-Svwcgkc-OUJNSa-kupLVuyE3dBuS1mnwkg4wPWIWUDF5jcE4l98dWe77iwHOY43VJrwDJ_8oFyuSXJuamx5AQgXu-eyYr8Nj1T4PRXesz8uXegV-lKqxtoV0_s5BrIWrb_s0w_Pzo3T6SimEFOqi7EdsAwNxU4B7N_mPEcwEORrBTvO76JoD5azq4yEZbBhndbAQ&timestamp=1764321141328
 
 ========================
 

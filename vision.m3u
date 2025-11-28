@@ -1,10 +1,4 @@
 
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/Kc6R4Dv.png", 17:00 WIB Daejeon KGC W vs Pepper Savings Bank W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20251121022F59
-#https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/saldiz1hstngwipnte7rlav0t8v2bpmdvvpn/playlist.m3u8?hdnts=st=1763718443~exp=1763750853~acl=*/saldiz1hstngwipnte7rlav0t8v2bpmdvvpn/*~hmac=9cbb512c02512e3830e38c5a4d2ede6521fbaf9a94833334cb0e3a57b518c46e
-
 #EXTINF:-1 group-title="LIGA2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", liga2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz

@@ -8,22 +8,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play.instreamtv.pro/sport/202_4312890_1.m3u8?sign=BpVaed-9e8lfnQ9wmGHiv28bufA-AltQcjZ7b10POGXf6gJLbqdgJbxY2CbouAXUjceoQHOmUMdSsAthcGfet2fi0Uo11j5Ouu_5ngQmh2n3o2-ET2KlvqEpf_ZhpA4Ygrt9TTIqOYzEriOKOoAGJ6X99WnYYULcXDQrVbXqL17S3CWOnU_MGZSVoEnhhpokrMT5C_AHCAPWZQ4wA3EjE4qqrkspc4elEo9NVsmEEMiwSFOF7FsxK29TIuZD_4WAJYa16L0mXOwrhSud07yEj6rbXcaOsu9DZLVOgIZQkvNefNIaZK637wmjSqPknaviyPsBxSsjN9-ehOYd1vvWnA&timestamp=1764332648761
+#https://play.instreamtv.pro/sport/202_4312890_1.m3u8?sign=BpVaed-9e8lfnQ9wmGHiv28bufA-AltQcjZ7b10POGXf6gJLbqdgJbxY2CbouAXUjceoQHOmUMdSsAthcGfet2fi0Uo11j5Ouu_5ngQmh2n3o2-ET2KlvqEpf_ZhpA4Ygrt9TTIqOYzEriOKOoAGJ6X99WnYYULcXDQrVbXqL17S3CWOnU_MGZSVoEnhhpokrMT5C_AHCAPWZQ4wA3EjE4qqrkspc4elEo9NVsmEEMiwSFOF7FsxK29TIuZD_4WAJYa16L0mXOwrhSud07yEj6rbXcaOsu9DZLVOgIZQkvNefNIaZK637wmjSqPknaviyPsBxSsjN9-ehOYd1vvWnA&timestamp=1764332648761
 ========================
 
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Italia vs Burkina Faso
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=PmrYPanplHTaF6QmUIodfi3zExJ-Asv0Z0_0cvD3SjlDhew_ncW5vjCo7Fi6PUgokhEaNJ1ysJ4OBrwvZJzvWM2WAQQmNdFCeafgRSgFotE=
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_09_925503ef-ead8-4aa4-960a-edf80eb21cf3/PROD_CMAF_CENC/index-dash.mpd
-
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 21:45 WIB Portugal vs Swiss
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=lFr2hH915UHCwaJGgOCU6QNS0vDLkTFKZhcMqk9ADP1GyfhbERmo8BklxWDDSEhYn9Xxvk1nXz2i-r0fI4UNgs2IVOQKIAPDg2MlnJkv0bY=
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_19_11_32_15_84e169f4-49ad-41e1-b456-1e2623ae4b1d/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 22:45 WIB Maroko vs Brasil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,16 +36,15 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA 1 BRI
-https://play.live8818.com/nami/sd-6MuTNFjpkkoJXnWnf5.m3u8
+#https://play.live8818.com/nami/sd-6MuTNFjpkkoJXnWnf5.m3u8
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA SUPER 
-https://live.inplyr.com/room/434982.m3u8
+#https://live.inplyr.com/room/434982.m3u8
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persija vs PSIM Yogyakarta
-https://shorter.me/VzVF0
+#https://shorter.me/VzVF0
+
 ========= NASIONAL TV--=====
-
-
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL TV", INDOSIAR 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -276,8 +262,6 @@ https://popmi.my.id/tes.m3u8?id=875
 http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 
-
-
 #EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="NASIONAL TV" ,SINPO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -296,7 +280,6 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -314,8 +297,6 @@ https://rplus.xyssatu.workers.dev/xPLAY.m3u8?id=inews
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="inews" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.pinimg.com/236x/bf/88/3c/bf883c51dfcb53f0132cd8997f7b0377.jpg",inews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-
-
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1200px-JTV_%28Indonesian_TV_channel%29_2022.svg.png", JTV 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
@@ -398,7 +379,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png",Berita Satu News World
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL TV",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
@@ -424,7 +404,192 @@ https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.Id" tvg-logo="https://i.pinimg.com/236x/a1/fe/9b/a1fe9bd646cdcb8fb42b012fa8169301.jpg" group-title="NASIONAL TV",BERITA SATU
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
-################### HOME TV  ################
+################### Channel Vision+  ################
+#EXTM3U
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" ,SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" ,INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" tvg-id="MNCTV.id" tvg-name="MNCTV" , MNCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" tvg-id="GTV.id" tvg-name="GTV" , GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" tvg-id="RCTI.id" tvg-name="RCTI" , RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png" tvg-id="ANTV.id" tvg-name="ANTV" ,ANTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/176/438176-SNAPSHOT-l.png" tvg-id="Trans7.id" tvg-name="Trans 7" , Trans 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" tvg-id="TransTV.id" tvg-name="Trans TV" ,Trans TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , MDTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , Z BIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/382/437382-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , BTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , HANACARAKA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/169/438169-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , DAAI TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/156/438156-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , KIDS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/180/438180-SNAPSHOT-l.png" tvg-id="JTV.id" tvg-name="JTV" , JTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/170/438170-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , JAKTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , SOCCER CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , SPOTV 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , SPORTSTARS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/310/437310-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , SPORTSTARS 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/312/437312-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , BEIN SPORT2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/316/437316-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , FIGHT SPORT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/242/437242-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , Celebrities Tv
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/179/438179-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , BANDUNG TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , CALESTIAL MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Thrill" tvg-name="Vision +" , Thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/838/437838-SNAPSHOT-l.png" tvg-id="DMI Tv" tvg-name="Vision +" ,DMI Tv
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/157/438157-SNAPSHOT-l.png" tvg-id="Food Travel" tvg-name="Vision +" , FOOD TRAVEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/164/438164-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/165/438165-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , HITS MOVIE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/150/438150-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , TVN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/847/437847-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , TVN MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/167/438167-SNAPSHOT-l.png" tvg-id="Tv5 Monde" tvg-name="Vision +" , TV5 Monde
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/132/493132-SNAPSHOT-l.jpg" tvg-id="Cbeebies" tvg-name="Vision +" , Cbeebies
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Sea Go" tvg-name="Vision +" ,Sea Go
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/173/438173-SNAPSHOT-l.png" tvg-id="TVRI" tvg-name="Vision +" , TVRI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , Reformed 21
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , TVN CHN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , IDX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/844/437844-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , MUSLIM TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/159/438159-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , STAR CHN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/840/437840-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , TVMU
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/701/437701-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , FRANCE 24
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/130/493130-SNAPSHOT-l.jpg" tvg-id="Test" tvg-name="Test" , BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/880/437880-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , NHK WORD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , CNA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , EURO NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , KOREA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , CGTN DOCUMENTARY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , FOX NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" ,CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , TV MACCAU
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , BLANK
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , CNBC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , EWTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , LIFE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , MAKKAH LIVE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , CRIME INVESTIGATION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" ,ABC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , ALJAZEERA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , Rock Action
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , STUDIO UNIVERSAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" ,ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , GALAXI PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , LOVE NATURE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , INEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , MUSIC TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , TRT WORLD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , GLOBAL TREKKER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Test" tvg-name="Test" , IMC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , CINEEDGE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , ZOO MOO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , RT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" ,ORIGINAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , SUPERRIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , UNIQUES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" ,BUDDY STAR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" ,DW NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , OUTDOOR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , MOONBUG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , FIGHT SPORT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" tvg-id="Vision+" tvg-name="Vision+" , DREAM CHANNEL
+========================================= CHANNEL DIGITAL LOKAL =======================================================
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/165/438165-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , HITS MOVIE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/847/437847-SNAPSHOT-l.png" tvg-id="Movies" tvg-name="Vision+" , TVN MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 
 
 

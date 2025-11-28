@@ -11,7 +11,7 @@
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
 
 
-#========================
+========================
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://assets.goal.com/images/v3/blt5075847310ab959e/U17%20Worlc%20Cup%20Logo.jpeg", 20:30 WIB Italia vs Burkina Faso
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
@@ -48,7 +48,14 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSBS Biak Numfor vs Persijap
+
 https://play.live8818.com/nami/sd-6MuTNFjrRYLZP6VNQs.m3u8
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persebaya Surabaya
+https://play.live8818.com/nami/sd-6MuTNFkaujb4A3Reg3.m3u8
+
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Bhayangkara vs Persebaya Surabaya
+https://shorter.me/V2CJJ
+
 ========= NASIONAL TV--=====
 
 

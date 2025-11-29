@@ -154,8 +154,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 group-title="NASIONAL TV" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/91AgJju-RhCFfJ8RVlVtDlZVvRw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-440680.jpg", TVOne 
 #https://iptv.lancartech.co.id:443/Farhan@90/18062025/36
 
-#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01hhk6wf766ctnymbqpngh5sh5.png" group-title="NASIONAL TV",Tvone Digital
-#http://103.66.62.83:8000/play/a06n/index.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="NASIONAL TV",TVONE  DIGITAL
+http://103.172.71.153:9981/stream/channelid/448804330?profile=pass
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -189,7 +189,7 @@ http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/526/59526-SNAPSHOT-m.png" group-title="NASIONAL TV",GTV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/526/59526-SNAPSHOT-m.png" group-title="NASIONAL TV",GTV digital
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4b/75/e4/4b75e42da25fdea747d91db85ac392b6.jpg" group-title="NASIONAL TV",GTV digital
 http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -292,6 +292,10 @@ https://rplus.xyssatu.workers.dev/xPLAY.m3u8?id=inews
 #EXTINF:-1 group-title="NASIONAL TV" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/1200px-JTV_%28Indonesian_TV_channel%29_2022.svg.png", JTV 
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
+#EXTINF:-1 tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png" group-title="NASIONAL TV" , JTV VDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9173&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
 https://malang.staratv.id/hls/0/stream.m3u8
 

@@ -295,7 +295,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 #EXTINF:-1 tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png" group-title="NASIONAL TV" , JTV VDO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9173&type=hls
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9713&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
 https://malang.staratv.id/hls/0/stream.m3u8
 

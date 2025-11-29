@@ -16,21 +16,21 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+$https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
 <================>
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg" group-title="EVENT",BRI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg" group-title="EVENT",BRI SUPER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSBS Biak Numfor vs Persijap
 
@@ -113,7 +113,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jWaIWbSyUoOND8iQ62WkIanAkdo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="NASIONAL TV",ANTV digital jkt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -264,7 +264,7 @@ https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="https://i.pinimg.com/236x/ff/58/e2/ff58e2b165690f6c99ab75945ac76539.jpg", Kompas HD 
-http://202.169.224.202:8800/udp/239.9.1.32:1234
+
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1

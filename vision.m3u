@@ -2,7 +2,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT=http-origin=https://lxscore.com
 #EXTVLCOPT=http-referrer=https://lxscore.com/
-https://v4-de4cdb5858c97f07f5753843e535ca8e.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879866.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=845893125119b22e5050c9f57a3f707b
+https://stream.titanlivescore.com/live/LXSCORE-4879869.m3u8
 #EXTINF:-1 group-title="LIGA2" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", liga2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
@@ -27,20 +27,20 @@ $https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugud
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19385&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rH9BDTpK5hhFTHk4P23D3_MsPLs=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/52301585/full-match-bri-liga-1-2021-d4c72e.jpg" group-title="EVENT",BRI SUPER 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB PSBS Biak Numfor vs Persijap
 
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA 1 BRI
-#https://play.live8818.com/nami/sd-6MuTNFjpkkoJXnWnf5.m3u8
+https://play.live8818.com/nami/sd-6MuTNFkb5b3zSnDvZ9.m3u8
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", LIGA SUPER 
 #https://live.inplyr.com/room/434982.m3u8

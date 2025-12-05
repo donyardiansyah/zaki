@@ -10,11 +10,11 @@
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
 
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", liga1
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg", liga1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-#https://play.instreamtv.pro/sport/202_4312890_1.m3u8?sign=BpVaed-9e8lfnQ9wmGHiv28bufA-AltQcjZ7b10POGXf6gJLbqdgJbxY2CbouAXUjceoQHOmUMdSsAthcGfet2fi0Uo11j5Ouu_5ngQmh2n3o2-ET2KlvqEpf_ZhpA4Ygrt9TTIqOYzEriOKOoAGJ6X99WnYYULcXDQrVbXqL17S3CWOnU_MGZSVoEnhhpokrMT5C_AHCAPWZQ4wA3EjE4qqrkspc4elEo9NVsmEEMiwSFOF7FsxK29TIuZD_4WAJYa16L0mXOwrhSud07yEj6rbXcaOsu9DZLVOgIZQkvNefNIaZK637wmjSqPknaviyPsBxSsjN9-ehOYd1vvWnA&timestamp=1764332648761
+https://play.instreamtv.pro/sport/202_3871955_1.m3u8?sign=euhduC4y0EqnIzVmd808jsbFb-llA1suSEbxcrjNS5Kay8u7Swaf-G_5mU1w2Fan7DyvijNJZG7vE1OrjQHkxioVIviMBlDVaF34s4GhFwHt9tCGgdEUsrg0O6u0_TG_mAEFLF6xf9wvFNfeE_GX3RRc-ID_If34qegVAuPLClYhyFzGfOBhc5qq32SCCoDV0CImts4WOuFxBhX65L217ZuSLY4bfMOuRiLvqXWEs8WVG9xBhJHOCX5j6F2VVTi_oQLZco4R6t6i1S85f-JmOHIgV4vNIDeFeh58Esw2AdvC89LqOKFENBc_P7KsZMKpHyOCLN-2hpojCYSvvhQHeA&timestamp=1764938102016
 ========================
 
 
@@ -33,7 +33,7 @@ $https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugud
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg", BRI SUPER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; BRAVIA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.0 Safari/537.36
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
 
 
 

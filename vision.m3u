@@ -1,14 +1,11 @@
 
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brighton & Hove Albion vs West Ham United
-https://shorter.me/rCOJ0
-
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://iili.io/FtSr5Mb.jpg", 21:00 WIB Brighton & Hove Albion vs West Ham United
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://b.tjjjva.shop/hls/HPPPP.m3u8
-
-
+#EXTINF:-1 group-title="EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", LIGA SERI A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", liga1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
@@ -26,7 +23,7 @@ https://b.tjjjva.shop/hls/HPPPP.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.instreamtv.xyz
 #EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://live5.msrktz.app/live/90725470.m3u8
+https://stream.matrixtv.id/hls/stream.m3u8
 
 ========================
 

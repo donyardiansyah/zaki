@@ -1,35 +1,7 @@
 #EXTM3U
-#EXTINF:-1:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1964956075876388864/eQ2tjP_b_400x400.jpg", INDOSIAR SPORTS 
-http://tv.casindo.org/hls/56/56.m3u8
-
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10" , ANTV SPORTS
-https://tv.casindo.org/hls/45/45.m3u8
-
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" , RCTI SPORTS
-https://tv.casindo.org/hls/51/51.m3u8
-
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" tvg-id="RCTI.id" tvg-name="RCTI" ,RCTI SPORTS (R+)
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
 
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" , GTV SPORTS
-https://tv.casindo.org/hls/57/57.m3u8
 
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" tvg-id="RCTI.id" tvg-name="RCTI" ,RCTI SPORTS FHD (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
-
-#EXTINF:-1 group-title="EVENT SPORTS TV NASIONAL" tvg-logo="https://nocindonesia.ap-south-1.linodeobjects.com/milestone/33rd-sea-games-thailand-2025-1740542539.png" , INEWS SPORTS
-https://tv.casindo.org/hls/52/52.m3u8
-
-#EXTINF:-1 group-title="EVENT" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", LIGA SERI A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 ===========seagames================
 #EXTINF:-1  tvg-id="576059" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
@@ -167,6 +139,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 https://tv.casindo.org/hls/51/51.m3u8
 #http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
 
+#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="NASIONAL TV",RCTI HD
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="NASIONAL TV",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
@@ -378,6 +352,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9713&type=hls
+
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/jtv.png?raw=true" tvg-id="JTV.id" tvg-name="JTV.id" , JTV 3 
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/chunklist_w1853455900.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
 https://malang.staratv.id/hls/0/stream.m3u8
 
@@ -453,7 +431,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3b4RXFJIC8twHkbvCdpsQbjTbZ8ycrGbu117bnsDnabPeskp2YnNyoiSs&s=10",MATRIX TV
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.ibb.co.com/Mx09vqzh/20251205-135022.jpg",MATRIX TV
 https://stream.matrixtv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png" group-title="NASIONAL TV",Jawa Pos TV
@@ -1297,6 +1275,13 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", LIGA SERI A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png", Sportstars 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36

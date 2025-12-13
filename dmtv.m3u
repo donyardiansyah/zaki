@@ -476,7 +476,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
 #EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" tvg-id="TransTV.id" tvg-name="Trans TV" ,Trans TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , MDTV
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" tvg-id="Test" tvg-name="Test" , SPORTSTARS 3
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , Z BIOSKOP
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
@@ -488,7 +488,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 #EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/156/438156-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , VISION PRIME
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
-#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , KIDS TV
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/310/437310-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , mdtv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
 #EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/180/438180-SNAPSHOT-l.png" tvg-id="JTV.id" tvg-name="JTV" , JTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
@@ -500,9 +500,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , SPOTV 2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , SPORTSTARS
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" tvg-id="Test" tvg-name="Test" , SPORTSTARS 4
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
-#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/310/437310-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , SPORTSTARS 2
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" tvg-id="Test" tvg-name="Test" , kid tv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 #EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://www.visionplus.id/images/repository/312/437312-SNAPSHOT-l.png" tvg-id="Vision+" tvg-name="Vision+" , BEIN SPORT2
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
@@ -789,39 +789,30 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="NATIONAL SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+http://202.169.224.202:8800/udp/239.9.1.9:1234
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="NATIONAL SPORTS",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+http://202.169.224.202:8800/udp/239.9.1.10:1234
 
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="NATIONAL SPORTS",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="NATIONAL SPORTS",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="NATIONAL SPORTS",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+
 
 #EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="NATIONAL SPORTS", PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2263,7 +2254,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;useri
 http://khano.nng.cloudns.us/live/m3u8/int/0c913970f4e013e.m3u8
 
 
-##EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/236x/45/18/67/4518670aae8a900355724a8b12187ba9.jpg",HOREE wifi
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.pinimg.com/236x/45/18/67/4518670aae8a900355724a8b12187ba9.jpg",HOREE wifi
+http://202.169.224.202:8800/udp/239.9.1.28:1234
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/09/85/63/098563007904366c83d32df606f7e0d3.jpg" group-title="KIDS",Moonbug US
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -2299,10 +2291,10 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 
 #EXTINF:-1 tvg-id="universalkids.us" tvg-logo="https://i.pinimg.com/236x/8b/1d/c5/8b1dc5a49c1ab5bf975f331511555c22.jpg" group-title="KIDS",Universal Kids 
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Univkid.m3u8
-
+http://202.169.224.202:8800/udp/239.9.1.18:1234
 #EXTINF:-1 tvg-id="teennick.us" tvg-logo="https://i.pinimg.com/236x/a0/93/5a/a0935a692dd9953a2b60ad4d8a530317.jpg" group-title="KIDS",TeenNick
 https://raw.githubusercontent.com/Cutsiffa/Kid/main/Tenic.m3u8
-
+http://202.169.224.202:8800/udp/239.9.1.17:1234
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ad/4c/a4/ad4ca4c41dd7734948e9e7b796e45abc.jpg" group-title="KIDS", RTÈjr

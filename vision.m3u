@@ -111,7 +111,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Indonesia Channels" ,SINPO TV
 ###https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
-#EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia Channels" ,ANTEVE TV
+#EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Antv_lama.png" group-title="Indonesia Channels" ,ANTEVE TV
 http://xtv.ooo:8080/12296515/19216918/350892
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 

@@ -310,7 +310,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
+#EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="Indonesia Channels",Stara tv malang
 https://malang.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="Indonesia Channels", DMTv
@@ -328,6 +328,100 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
+
+= CHANNEL DIGITAL LOKAL =======================================================
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",GTV HD
+http://103.172.71.153:9981/stream/channelid/87868683?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",MNCTV HD
+http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",RCTI HD
+http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",MENTARI HD
+http://103.172.71.153:9981/stream/channelid/33693761?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",REPUBLIKA
+http://103.172.71.153:9981/stream/channelid/181683948?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",SCTV HD
+http://103.172.71.153:9981/stream/channelid/1147120909?profile=pass
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",INDOSIAR HD
+http://103.172.71.153:9981/stream/channelid/1185426831?profile=pass
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",JOGJA TV
+http://103.172.71.153:9981/stream/channelid/2071727521?profile=pass
+   
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",INEWS HD
+http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",RTV HD
+http://103.172.71.153:9981/stream/channelid/1193062200?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",JITV
+http://103.172.71.153:9981/stream/channelid/1232156555?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",METRO TV HD
+http://103.172.71.153:9981/stream/channelid/540992703?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL DIGITAL",SCTV HD 2
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL DIGITAL",INDOSIAR HD 2
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL DIGITAL",TRANS TV HD
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL DIGITAL",TRANS 7 HD
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL DIGITAL",MOJI HD
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL DIGITAL",MENTARI HD 2
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",ANTV HD
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",TVONE HD
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+          
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",VTV HD
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",RTV HD
+http://103.170.33.11:9981/stream/channelid/97833158?profile=pas
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",METRO TV HD 2
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",GARUDA TV
+http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL DIGITAL",BN CHANNEL - MDTV
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+
+
+
+
+
+
+
+
+
+
 <=========================================================================== SEA GAMES 2025 ====================================================================================>
 
 #EXTINF:-1  tvg-id="576059" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01

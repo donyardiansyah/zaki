@@ -47,8 +47,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-32777070300
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rcti.png" group-title="NASIONAL TV",RCTI HD (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV",RCTI HD
-http://xtv.ooo:8080/12296515/19216918/351023
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="NASIONAL TV",RCTI ID
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
@@ -98,7 +97,6 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 #EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="NASIONAL TV",Trans TV 2
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -112,7 +110,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kNpgzMw6CuJ5p4DFITTwHwDoNfI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-8f2401.jpg" group-title="NASIONAL TV",TRANS 7
 #https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
@@ -120,9 +117,6 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg" group-title="NASIONAL TV", TVONE
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
-
-#EXTINF:-1 group-title="NASIONAL TV" tvg-name="TV Lokal HD" tvg-country="ID" tvg-logo="https://thumbor.prod.vidiocdn.com/91AgJju-RhCFfJ8RVlVtDlZVvRw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-440680.jpg", TVOne 
-#https://iptv.lancartech.co.id:443/Farhan@90/18062025/36
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="NASIONAL TV",TVONE ID
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
@@ -140,12 +134,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg" group-title="NASIONAL TV",MNCTV ID
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10" group-title="NASIONAL TV",MNCTV  sport
-#http://103.172.71.153:9981/stream/channelid/1781718036?profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg" group-title="NASIONAL TV",MNCTV(indovision) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -186,11 +174,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01hhk6wf766ctnymbqpngh5sh5.png" group-title="NASIONAL TV", MOJI TV 
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01hhk6wf766ctnymbqpngh5sh5.png" group-title="NASIONAL TV",MOJITV Hd
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", MOJI TV Sports
-
-
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -204,7 +187,6 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png" group-title="NASIONAL TV",MDTV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/vkORCwK34mMDw2PbRGLcVLkux10=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg",MDTV vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -221,7 +203,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -264,7 +245,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=9713&type=hls
-
 
 #EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
 https://malang.staratv.id/hls/0/stream.m3u8
@@ -386,7 +366,7 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE
-http://xtv.ooo:8080/12296515/19216918/350972
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
 #EXTINF:-1 tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg" group-title="TEST",BRI SUPER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -394,12 +374,14 @@ http://xtv.ooo:8080/12296515/19216918/350972
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
+#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="TEST",RCTI HD
+http://xtv.ooo:8080/12296515/19216918/351023
+
 #EXTINF:-1 tvg-id="eVENT" tvg-name="TV Lokal HD" group-title="TEST" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg",PROLIGA
 http://xtv.ooo:8080/12296515/19216918/350997
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Antv_lama.png" group-title="TEST" ,ANTEVE TV
 http://xtv.ooo:8080/12296515/19216918/350892
-
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -3033,6 +3015,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

@@ -185,7 +185,9 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 #EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV",MDTV K7
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
+#http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
+http://103.146.197.250:25461/live/daeng/tmgrh/20.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png" group-title="NASIONAL TV",MDTV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
@@ -376,13 +378,13 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="TEST",RCTI HD
-http://xtv.ooo:8080/12296515/19216918/351023
+http://103.146.197.250:25461/live/daeng/tmgrh/10.m3u8
 
 #EXTINF:-1 tvg-id="eVENT" tvg-name="TV Lokal HD" group-title="TEST" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg",PROLIGA
-http://xtv.ooo:8080/12296515/19216918/350997
+http://103.146.197.250:25461/live/daeng/tmgrh/20.m3u8
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Antv_lama.png" group-title="TEST" ,ANTEVE TV
-http://xtv.ooo:8080/12296515/19216918/350892
+http://103.146.197.250:25461/live/daeng/tmgrh/1.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -3016,6 +3018,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

@@ -160,10 +160,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-327
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 " tvg-id=" mojitv" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="NASIONAL TV", MOJITV PROLIGA
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg", MOJI TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
@@ -185,8 +181,8 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 #EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV",MDTV K7
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
-http://103.146.197.250:25461/live/daeng/tmgrh/20.m3u8
+http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
+#http://103.146.197.250:25461/live/daeng/tmgrh/20.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png" group-title="NASIONAL TV",MDTV
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -3016,6 +3012,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

@@ -377,7 +377,11 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179182
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://103.146.197.250:25461/daeng/tmgrh/16
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png" group-title="TEST", LIGA2 VDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -397,7 +401,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M0C6f3zNV6kJY_iBu_VQ772RO94=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-league-8e3d48.png" group-title="EVENT",BRI  
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M0C6f3zNV6kJY_iBu_VQ772RO94=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-league-8e3d48.png" group-title="TEST",BRI  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
@@ -420,13 +424,24 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=20240&type=dash
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="TEST",RCTI HD
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179164
-
-#EXTINF:-1 tvg-id="eVENT" tvg-name="TV Lokal HD" group-title="TEST" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg",PROLIGA
-http://103.146.197.250:25461/live/daeng/tmgrh/24.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://103.146.197.250:25461/daeng/tmgrh/10
+#EXTINF:-1 tvg-id="eVENT" tvg-name="TV Lokal HD" group-title="TEST" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg",PROLIGA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://103.146.197.250:25461/daeng/tmgrh/24
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Antv_lama.png" group-title="TEST" ,ANTEVE TV
-http://103.146.197.250:25461/live/daeng/tmgrh/1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://103.146.197.250:25461/daeng/tmgrh/1
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -3057,6 +3072,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

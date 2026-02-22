@@ -71,7 +71,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/236x/82/82/02/828202970e72c7c33bbb405a0bec4083.jpg" group-title="NASIONAL TV",ANTV K7
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/236x/82/82/02/828202970e72c7c33bbb405a0bec4083.jpg" group-title="NASIONAL TV",ANTV FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
@@ -103,7 +103,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 
-#EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="NASIONAL TV",Trans TV 2
+#EXTINF:-1 tvg-id="transtv" tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="NASIONAL TV",TransTV FHD
 http://103.146.197.250:25461/live/daeng/tmgrh/15.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -115,7 +115,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg" group-title="NASIONAL TV",Trans7 k7
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg" group-title="NASIONAL TV",Trans7 FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
@@ -3082,6 +3082,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

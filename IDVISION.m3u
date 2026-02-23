@@ -380,6 +380,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6JuubV7C1WNgKYdp07g_LKxiJdpe8C855lQ&s" tvg-id="Apple TV.id" , OXYGEN TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+#EXTINF:-1 tvg-id="Ramadan - [Channel 78].id" tvg-name="Ramadan" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1740651682_tvchannels_v1.jpg" group-title="NASIONAL TV", Ramadan
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://group1-swiftservehd-1.dens.tv/h/h227/index.m3u8?app_type=web&userid=lite&chname=Ramadan_Channel
 
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE
@@ -389,8 +393,8 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://103.146.197.250:25461/daeng/tmgrh/16
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",BRI SUPER LEAGUE 1
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiarIDvision%20.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",003 BRI SUPER LEAGUE 1
+https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JvRduF_v3usASul8v3G0oMsRUSCWAkLl_1gv2oqYDQ&s=10" group-title="TEST",MOJI PROLIGA
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mojiOchannel.m3u8
@@ -461,7 +465,8 @@ http://103.146.197.250:25461/daeng/tmgrh/1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://103.146.197.250:25461/daeng/tmgrh/1
+http://filex.me:8080/000003/000003/302206
+
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
@@ -3091,6 +3096,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

@@ -467,7 +467,7 @@ http://103.146.197.250:25461/daeng/tmgrh/1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://filex.me:8080/000003/000003/302206
+https://rebrand.ly/UPPL2026
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -3098,6 +3098,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

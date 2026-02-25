@@ -1,3 +1,4 @@
+
 <== Special Thanks to Apistech for the EPG Source ===>
 
 
@@ -399,7 +400,7 @@ https://group1-swiftservehd-1.dens.tv/h/h227/index.m3u8?app_type=web&userid=lite
 https://liveplay1.camel4.live/live/27551_12551407_1l4rjnh9xo1dm7v.m3u8?txSecret=f7e11abbff429a0e90614ad85f5cc3c4&txTime=699DAB7F&lat=9000
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",003 BRI SUPER LEAGUE 1
-https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/IndosiarFilex.m3u8
+http://iptvtree.net:8080/F25660/4184162c/162138
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JvRduF_v3usASul8v3G0oMsRUSCWAkLl_1gv2oqYDQ&s=10" group-title="TEST",MOJI PROLIGA
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mojiOchannel.m3u8
@@ -471,7 +472,7 @@ http://103.146.197.250:25461/daeng/tmgrh/1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://rebrand.ly/UPPL2026
+
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -3102,6 +3103,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

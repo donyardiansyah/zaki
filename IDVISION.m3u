@@ -356,7 +356,7 @@ https://stream.matrixtv.id/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=dash
 
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="NASIONAL TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg",AllPlay Ent
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
@@ -399,43 +399,47 @@ https://liveplay1.camel4.live/live/27551_12568346_8yomo4h1vlzgq0j.m3u8?txSecret=
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",003 BRI SUPER LEAGUE 1
 http://hometv.biz.id:80/play/kKn9F6D4XamZ4-7aEJ1mtRzOIDvDxgJ2_ofdQvKaP38
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_JvRduF_v3usASul8v3G0oMsRUSCWAkLl_1gv2oqYDQ&s=10" group-title="TEST",MOJI PROLIGA
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mojiOchannel.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE
+http://xtv.ooo:8080/12296515/19216918/350972
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png" group-title="TEST",indosiar 
+http://vipambataousam.top:8080/VIP012751730054044121/c95329ff2213/34327
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png" group-title="TEST", LIGA2 VDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19542&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19542&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19542&type=dash
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png" group-title="TEST", LIGA2 VDO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19541&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19541&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19541&type=dash
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png" group-title="TEST", LIGA2 VDO 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M0C6f3zNV6kJY_iBu_VQ772RO94=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-league-8e3d48.png" group-title="TEST",BRI  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
+$https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M0C6f3zNV6kJY_iBu_VQ772RO94=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-league-8e3d48.png" group-title="TEST",BRI  2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19353&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19353&type=dash
+$https://nextgenz.my.id/event/pidio/play.mpd?id=19353&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4_ILpCVBS-Ecnl9WsRAFQYTElbE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-5c295b.png" group-title="TEST",PROLIGA
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4_ILpCVBS-Ecnl9WsRAFQYTElbE=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/254/proliga-5c295b.png" group-title="TEST",PROLIGA1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=20240&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=20240&type=dash
+$https://nextgenz.my.id/event/pidio/play.mpd?id=20240&type=dash
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtPn7eNEPM6KpEvp3wXYNsQGkvt1rRTP7eHj9BEyRuw&s=10" group-title="TEST" group-title="TEST",LIGA3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -443,10 +447,10 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=20240&type=dash
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="TEST",RCTI HD
-http://hometv.biz.id:80/play/kKn9F6D4XamZ4-7aEJ1mtQfNMMrKlZIM4RQWVRNCXnc
+http://vipambataousam.top:8080/VIP012751730054044121/c95329ff2213/34322
 
-#EXTINF:-1 tvg-id="eVENT" tvg-name="TV Lokal HD" group-title="TEST" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg",PROLIGA 1
-http://xtv.ooo:8080/12296515/19216918/350892
+#EXTINF:-1 tvg-id="eVENT" tvg-name="TV Lokal HD" group-title="TEST" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/12/996x664/proliga-2025_e0054c4.jpg",PROLIGA
+http://xtv.ooo:8080/12296515/19216918/350997
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfnfFIFZuCmkdRbMPRdJXsqeWVP5-pfpptWWj5-ShjiA&s=10" group-title="TEST" ,ROMBONGAN BESAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0 
@@ -456,11 +460,7 @@ http://xtv.ooo:8080/12296515/19216918/350892
 #https://liveplay1.camel4.live/live/27551_12568346_8yomo4h1vlzgq0j.m3u8?txSecret=a77edbf3c6dbaf44a4db5d8cbdd79e44&txTime=699EFB98&lat=9000
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Antv_lama.png" group-title="TEST" ,ANTEVE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-http://hometv.biz.id:80/play/kKn9F6D4XamZ4-7aEJ1mtd_VMnM7cGTFnZDwvSMsXd8
+http://vipambataousam.top:8080/VIP012751730054044121/c95329ff2213/34321
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://iili.io/FtSr5Mb.jpg", Liga Inggris (Sports) 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
@@ -3086,6 +3086,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

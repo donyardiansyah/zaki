@@ -392,13 +392,11 @@ https://group1-swiftservehd-1.dens.tv/h/h227/index.m3u8?app_type=web&userid=lite
 
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE
-EXTVLCOPT:http-referrer=https://www.cameltv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://liveplay1.camel4.live/live/sd-6MuTNFkbFB8ZeAETQj.m3u8?txSecret=f2c04f319f79c434e30d08f9e0fe5dd1&txTime=69A1A254&lat=9000
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",003 BRI SUPER LEAGUE 1
-http://hometv.biz.id:80/play/kKn9F6D4XamZ4-7aEJ1mtRzOIDvDxgJ2_ofdQvKaP38
-
+#http://hometv.biz.id:80/play/kKn9F6D4XamZ4-7aEJ1mtRzOIDvDxgJ2_ofdQvKaP38
+https://stream.titanlivescore.com/live/LXSCORE-4879949.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE3
 http://xtv.ooo:8080/12296515/19216918/350972
 
@@ -3083,6 +3081,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
 
 
 

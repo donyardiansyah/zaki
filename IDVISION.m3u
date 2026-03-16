@@ -266,7 +266,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
-https://malang.staratv.id/hls/0/stream.m3u8
+https://malang.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://g20culture.indonesiana.tv/_nuxt/img/cover.6b9be5b.png" group-title="NASIONAL TV",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
@@ -286,7 +286,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/1024px-TVRI-World.svg.png" group-title="NASIONAL TV",TVRI World
+#EXTINF:-1 tvg-logo="https://malang.staratv.id/hls/stream.m3u8" group-title="NASIONAL TV",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="NASIONAL TV",CNN Indo
@@ -812,7 +812,6 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/o
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="Sports",BeinSport Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-id="PREMIERSPORTS2PH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Q9JS4nyFls16NY7fN76UcpIt_Iw0xpgbqQ&s" group-title="Sports", Premier Sports 2 PH

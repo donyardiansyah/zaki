@@ -125,6 +125,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="NASIONAL TV",TVONE ID
 https://cdn10jtedge.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="NASIONAL TV",TVONE 2
+http://103.58.160.157:8278/720-NET/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
@@ -272,10 +274,7 @@ https://malang.staratv.id/hls/stream.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://www.dens.tv/images/channel-logo/112.jpg", Jaktv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=dash
+http://103.58.160.157:8278/720-JAKTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jak tv - [Channel 78].id" tvg-name="Jak tv" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501805_tvchannels_v1.jpg" group-title="NASIONAL TV", Jak tv
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -328,8 +327,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSbcEjhFqMDW6UVbRDSe3rV-2EwNMPCKQpAZ9ygCX8_EV2rLgAfguA8v6OuIKqJ1PWfg&usqp=CAU",SindoNews ID
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9F2AiSa0UifkaEwjfbMkcFgqpFuRmrZFJZw&s" tvg-id="Test" tvg-name="Test" , SINDONEWS V+
-
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" tvg-id="Test" tvg-name="Test" , VTV
+http://202.169.224.202:8800/udp/239.9.1.39:1234
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="NASIONAL TV",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
@@ -351,10 +350,8 @@ https://stream.matrixtv.id/hls/stream.m3u8
 
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/jawapos.png", Jawapos TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=drm
-#https://nextgenz.my.id/event/pidio/play.mpd?id=9714&type=dash
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="NASIONAL TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg",AllPlay Ent
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd

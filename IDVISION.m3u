@@ -369,7 +369,8 @@ http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
 http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN INDO" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="NASIONALTV 2",CNN INDO
 http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
-
+#EXTINF:-1 tvg-name="METROTV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg" group-title="NASIONALTV 2",METROTV 2
+https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png" group-title="NASIONALTV 2",ANTV 2
 http://202.169.224.202:8800/udp/239.9.1.37:1234
 

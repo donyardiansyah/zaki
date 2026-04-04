@@ -488,10 +488,8 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 http://202.169.224.202:8800/udp/239.9.1.12:1234
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",003 BRI SUPER LEAGUE 1
-https://stream.titanlivescore.com/live/LXSCORE-4879954.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="TEST ", Indosiar 2
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE3
 http://xtv.ooo:8080/12296515/19216918/350972

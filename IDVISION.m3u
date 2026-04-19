@@ -1683,7 +1683,7 @@ http://xtv.ooo:8080/12296515/19216918/351023
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
 $https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/M0C6f3zNV6kJY_iBu_VQ772RO94=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-lea" group-title="TEST",BRI LIGA 1SUPER
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinirwmzj4IkmylXyWuwBtV-diig-bsS_8J9JocVm0iQ&s=10" group-title="TEST",BRI LIGA 1 SUPER
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36

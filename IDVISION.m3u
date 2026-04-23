@@ -353,9 +353,11 @@ http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
 http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
 #EXTINF:-1 tvg-name="METROTV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg" group-title="NASIONALTV 2",METROTV 2
 https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png" group-title="NASIONALTV 2",ANTV 2
-http://202.169.224.202:8800/udp/239.9.1.37:1234
 
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png" group-title="NASIONALTV 2", ANTV2
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+http://front-main.eagle-4k.me:80/Emeka20252025/fwazza47nd/1165776
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -479,15 +481,12 @@ https://aspaltvpasti.top/11111/206.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/204.drm
 https://aspaltvpasti.top/11111/204.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/8/80/Indosiar_%281995%29.png/revision/latest/scale-to-width-down/250?cb=20250225055957" group-title="NASIONALTV 2",indosiar
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-https://aspaltvpasti.top/11111/205.mpd
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/8/80/Indosiar_%281995%29.png/revision/latest/scale-to-width-down/250?cb=20250225055957" group-title="NASIONALTV 2", Indosiar
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 
 =============== VISION +====================
 
@@ -1664,7 +1663,7 @@ http://202.169.224.202:8800/udp/239.9.1.12:1234
 https://aspaltvpasti.top/11111/19354.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://shorter.me/_bDcr" group-title="TEST",003 BRI SUPER LEAGUE 1
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
+http://opplextv.cyou:8080/nasir6160/nasir/350972
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://radarindramayu.disway.id/upload/65bb6031d406d42dc43a00dc65d1297e.jpg",BRI SUPER LEAGUE3
 http://xtv.ooo:8080/12296515/19216918/350972
@@ -1674,7 +1673,6 @@ http://iptvtree.net:8080/JoNSnoW/Hbr4gS78vcZ87/162138
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="TEST",RCTI HD
 http://xtv.ooo:8080/12296515/19216918/351023
-
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/M0C6f3zNV6kJY_iBu_VQ772RO94=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-league-8e3d48.png" group-title="TEST",BRI  

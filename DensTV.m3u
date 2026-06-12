@@ -81,11 +81,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 #EXTINF:-1 tvg-id="801.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/60e453c7-ac97-4f20-b4cf-bc870b08f633.jpg" tvg-name="Trans 7" group-title="NASIONAL TV", Trans 7
 (TRV) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bestvnid.serv00.net/cubmu/1.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+http://139.99.61.175:25461/M9005/6825/103
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -97,11 +93,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #https://fta2-cdn-flr.visionplus.id/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="NASIONAL TV",TRANSTV (TRV)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bestvnid.serv00.net/cubmu/1.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+http://139.99.61.175:25461/M9005/6825/102
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -456,7 +448,8 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL TV 2", INDOSIAR 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://103.148.44.38:8000/play/a05c/index.m3u8
+http://139.99.61.175:25461/M9005/6825/105
+#http://103.148.44.38:8000/play/a05c/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 78].id" tvg-name="SCTV" tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/sctv.png" group-title="NASIONAL TV 2", SCTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -477,7 +470,8 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179182
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV 2",RCTI (R+)
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV 2",RCTI
-http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+http://139.99.61.175:25461/M9005/6825/100
+#http://103.58.160.157:8278/720-RCTI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 78].id" tvg-name="ANTV" tvg-logo="https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png" group-title="NASIONAL TV 2", ANTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -612,6 +606,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
+#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" ,Sukan +
+http://139.99.61.175:25461/M9005/6825/65537
 #EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" ,(USA) FS2
 https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/1116301.m3u8
 

@@ -604,21 +604,8 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="World Cup 2026", TSN 1
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
-#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" ,(USA) FS1
-http://starhub.pro/live/farhat-3379/67897-913379/3420.ts
-
-
 #EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2024/08/Sukan-RTM.png" tvg-id="Sukan RTM" ,Sukan +
 http://139.99.61.175:25461/M9005/6825/65537
-
-#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_a4004c6c910cbec6345fa2015981ebd7.png" ,(TW) ELTA Sports 1
-https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/1116311.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d2b9e073bcef1bdd395bfd9da7c0d44e.png" ,(TW) ELTA Sports 2
-https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/1116312.m3u8
-
-#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_b229b1679884f5fc34980fbbe48d7cc9.png" ,(TW) ELTA Sports 3
-https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/1116313.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://static.poder360.com.br/2024/07/cazetv-league-one-848x477.png" ,[BZ] CAZE TV 1
 https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/1116361.m3u8
@@ -746,9 +733,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
 
-#EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://rtm-images.glueapi.io/320x0/system/SukanDolby.png", RTM SUKAN+
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd
+
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="World Cup 2026", TUDN (Mexico)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -776,7 +761,7 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short
 #KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjng" group-title="World Cup 2026", FS1 WC 2026
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" group-title="World Cup 2026", FS1 WC 2026
 https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
 
 #EXTINF:-1 group-title="World Cup 2026" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-edisi-pertama-3193264271.jpeg", ELTA Sports 1

@@ -575,6 +575,10 @@ http://opplextv.cyou:8080/nasir6160/nasir/350997
 
 =============World Cup 2026==========
 
+#EXTINF:-1 group-title="World Cup 2026" tvg-id="TVRI TV Nasional.id" tvg-logo="https://i.imgur.com/Lk0f0G4.png",TVRI
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="World Cup 2026", TVRI Sport 
 http://103.148.44.38:8000/play/a05u/index.m3u8
 

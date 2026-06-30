@@ -100,7 +100,7 @@ http://139.99.61.175:25461/M9005/6825/102
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg" group-title="NASIONAL TV", TVONE
-https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
+http://filex.cc:8080/bTl3VFRIMGRER3BqVHdOdWszbi9DTzQrQktxVG9pRUdlZnFQZWhucHN5TT0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
@@ -121,8 +121,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="817.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" tvg-name="MNC TV" group-title="NASIONAL TV", MNC TV 2
-http://opplextv.cyou:8080/nasir6160/nasir/350996
-#https://pic.ottmy.site:443//hakimlau536/Aaaa2345/73616.m3u8
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqSjlOU21XTGQ4a1lyWlpPZnM5ZTdDOD0
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
@@ -134,7 +134,7 @@ http://opplextv.cyou:8080/nasir6160/nasir/350996
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/419ddbb6-dc83-4e1a-89e6-13c6c9422577.png" tvg-name="GTV" group-title="NASIONAL TV", GTV
-https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/73619.m3u8
+
 
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -146,8 +146,8 @@ https://pic.ottmy.site:443/live/hakimlau536/Aaaa2345/73619.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="NASIONAL TV",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg", MOJI TV 
 http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqUDREWHdFVHcvSkRpZi9NaW90bUhWWT0
@@ -182,7 +182,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/JOevGN45gmuWOy0d36IGBEqDb00=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",NUSANTARATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.pinimg.com/474x/73/6b/5d/736b5de459e7ffbc4955100246a31b9e.jpg",NUSANTARATV ID
 https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd
@@ -196,7 +196,8 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-327770703
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://i.pinimg.com/236x/ff/58/e2/ff58e2b165690f6c99ab75945ac76539.jpg" group-title="NASIONAL TV",KOMPAS TV (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -214,13 +215,16 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/272.m3u8
 #EXTINF:-1 tvg-id="Tvri Sport - [Channel 78].id" tvg-name="Tvri Sport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="NASIONAL TV", Tvri Sport
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg",Metro TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="NASIONAL TV", iNews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -557,10 +561,7 @@ http://103.148.44.38:8000/play/a06g/index.m3u8
 http://103.58.160.157:8278/720-NET/playlist.m3u8
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="NASIONAL TV 2" ,ANTEVE TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQjZXUWZ3bXpiT3kxY2F4UGg3cm5ETT0
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV 2", MOJI TV
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175

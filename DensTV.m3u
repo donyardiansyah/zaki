@@ -48,8 +48,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV",RCTI HD
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
-#http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3FPWEluNlByeTl1a0FScE9lK2ZhMD0
+#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3FPWEluNlByeTl1a0FScE9lK2ZhMD0
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="NASIONAL TV",ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -95,8 +95,8 @@ http://139.99.61.175:25461/M9005/6825/102
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg" group-title="NASIONAL TV", TVONE
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73610.ts
-#http://filex.cc:8080/bTl3VFRIMGRER3BqVHdOdWszbi9DTzQrQktxVG9pRUdlZnFQZWhucHN5TT0
+#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73610.ts
+http://filex.cc:8080/bTl3VFRIMGRER3BqVHdOdWszbi9DTzQrQktxVG9pRUdlZnFQZWhucHN5TT0
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
@@ -117,8 +117,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="817.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/788c4e9e-363d-47f7-9ef5-6ee1d9dd2619.png" tvg-name="MNC TV" group-title="NASIONAL TV", MNC TV 2
-#http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqSjlOU21XTGQ4a1lyWlpPZnM5ZTdDOD0
-http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73616.ts
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqSjlOU21XTGQ4a1lyWlpPZnM5ZTdDOD0
+#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73616.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
@@ -415,8 +415,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="NASIONAL TV 2",Indosiar 
 #http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
-http://202.169.224.202:8800/udp/239.9.1.25:1234
-#http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3VZbW9zRlovenltNGFkekYzbmxETT0
+#http://202.169.224.202:8800/udp/239.9.1.25:1234
+http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3VZbW9zRlovenltNGFkekYzbmxETT0
 
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="NASIONAL TV 2", INDOSIAR 

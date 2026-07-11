@@ -177,7 +177,7 @@ http://157.15.187.3:25092/hls/50/50.m3u8
 #EXTINF:-1 tvg-id="MDTV" group-title="NASIONAL TV" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/vkORCwK34mMDw2PbRGLcVLkux10=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg",MDTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#EXTINF:-1 tvg-name="volyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png" group-title="NASIONAL TV",voly tv
+#EXTINF:-1 tvg-name="volyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png" group-title="NASIONAL TV",VOLLI TV
 http://157.15.187.3:25092/hls/2/2.m3u8
 
 
@@ -261,7 +261,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeJnakgLrG6ghEtJ5we0CpZSEbo4FfAq-Zg&usqp=CAU", BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.pinimg.com/736x/6f/99/26/6f9926b17a80697be2dcb20e8a0a259f.jpg" group-title="NASIONAL TV",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -370,7 +370,6 @@ http://157.15.187.3:25092/hls/52/52.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
-
 
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&s" ,JITV Jogja
@@ -482,8 +481,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 #EXTINF:-1 tvg-name="METROTV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg" group-title="NASIONAL TV 2",bioskop indo
 http://157.15.187.3:25092/hls/31/31.m3u8
 
-#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmsQ97JbHR1D8S1Y-hjbKJBQFMqNzFHcyzgA&s" group-title="NASIONAL TV 2",voly tv
-http://157.15.187.3:25092/hls/2/2.m3u8
+#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmsQ97JbHR1D8S1Y-hjbKJBQFMqNzFHcyzgA&s" group-title="NASIONAL TV 2",tvone
+http://157.15.187.3:25092/hls/46/46.m3u8
 
 #EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="NASIONAL TV 2",TVRI
 http://157.15.187.3:25092/hls/63/63.m3u8
@@ -494,7 +493,7 @@ http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeJnakgLrG6ghEtJ5we0CpZSEbo4FfAq-Zg&usqp=CAU" group-title="NASIONAL TV 2",live id
 http://157.15.187.3:25092/hls/13/13.m3u8
 
-#EXTINF:-1 tvg-name="CNN INDO" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="NASIONAL TV 2", yudi vision
+#EXTINF:-1 tvg-name="CNN INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSOWvL5dsIYDRXfJ586V2naaEV0VUS8swJAp23ON-Og&s=10" group-title="NASIONAL TV 2", yudi vision
 http://157.15.187.3:25092/hls/17/17.m3u8
 http://157.15.187.3:25092/hls/18/18.m3u8
 
@@ -540,9 +539,7 @@ http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQjZXUWZ3bXpiT3kxY2F4UGg3cm5ETT0
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV 2", MOJI TV
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
-#EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV 2", MOJI TV
- 2
-http://157.15.187.3:25092/hls/50/50.m3u8
+
 
 
 =============World Cup 2026==========

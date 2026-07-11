@@ -478,10 +478,10 @@ http://157.15.187.3:25092/hls/43/43.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
 
-#EXTINF:-1 tvg-name="METROTV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg" group-title="NASIONAL TV 2",bioskop indo
+#EXTINF:-1 tvg-name="METROTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmtIFX8JOcJqOX28C0oPuOpkUPGGtdvI2WdpZKQ8STbHEor3wKKmWnqQQ&s=10" group-title="NASIONAL TV 2",bioskop indo
 http://157.15.187.3:25092/hls/31/31.m3u8
 
-#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmsQ97JbHR1D8S1Y-hjbKJBQFMqNzFHcyzgA&s" group-title="NASIONAL TV 2",tvone
+#EXTINF:-1 tvg-name="KOMPASTV" tvg-logo="https://i.pinimg.com/236x/da/3d/31/da3d31d32e3701088042491912861aa1.jpg" group-title="NASIONAL TV 2",tvone
 http://157.15.187.3:25092/hls/46/46.m3u8
 
 #EXTINF:-1 tvg-name="TVRI" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="NASIONAL TV 2",TVRI
@@ -490,7 +490,7 @@ http://157.15.187.3:25092/hls/63/63.m3u8
 http://157.15.187.3:25092/hls/49/49.m3u8
 #http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqeJnakgLrG6ghEtJ5we0CpZSEbo4FfAq-Zg&usqp=CAU" group-title="NASIONAL TV 2",live id
+#EXTINF:-1 tvg-name="BTV" tvg-logo="img.magnific.com/free-vector/live-stream-webinar-label-tv-channels_1017-63792.jpg?semt=ais_hybrid&w=740&q=80" group-title="NASIONAL TV 2",live id
 http://157.15.187.3:25092/hls/13/13.m3u8
 
 #EXTINF:-1 tvg-name="CNN INDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSOWvL5dsIYDRXfJ586V2naaEV0VUS8swJAp23ON-Og&s=10" group-title="NASIONAL TV 2", yudi vision
@@ -523,15 +523,15 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 http://157.15.187.3:25092/hls/44/44.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png" group-title="NASIONAL TV 2",rtv
-http://157.15.187.3:25092/hls/44/44.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png" group-title="NASIONAL TV 2",rtv
+http://157.15.187.3:25092/hls/91/91.m3u8
 http://157.15.187.3:25092/hls/95/95.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV 2",MDTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
-http://103.58.160.157:8278/720-NET/playlist.m3u8
+http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
+
 
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="NASIONAL TV 2" ,ANTEVE TV
 http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQjZXUWZ3bXpiT3kxY2F4UGg3cm5ETT0

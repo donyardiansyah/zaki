@@ -367,7 +367,7 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&s" ,JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png" group-title="NASIONAL TV",Mentari TV
+#EXTINF:-1 tvg-id="20" tvg-logo="https://ogietv.biz.id:443/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvEcGoP-SsGIb1auU4W9VTvfpnPrVAsvog4u3NZEZtBPQQjTmeU8m9gySSjGCkKKpYrsNOvZFTLCy14zl9veAhx1aMwYyljPi83bAAAnwD-CI3DGUOCLKgNkFJf68Bt74gg.png" group-title="NASIONAL TV",Mentari TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive

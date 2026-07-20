@@ -285,7 +285,7 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="NASIONAL TV", Sindonews (V+)
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://i.imgur.com/UPapG4S.jpeg" group-title="NASIONAL TV", Sindonews (V+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -294,7 +294,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=1017
 https://ayo.maling.pl/Vision/index.mpd?id=1017
 
-#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="NASIONAL TV", Sindonews (Maxstream)
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://i.imgur.com/UPapG4S.jpeg" group-title="NASIONAL TV", Sindonews (Maxstream)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0

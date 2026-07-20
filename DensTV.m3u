@@ -456,7 +456,7 @@ https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="NASIONAL TV,INEWS (R+)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="NASIONAL TV",INEWS (R+)
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
@@ -470,11 +470,16 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/804a0414-edd9-4e16-bd7e-1fbb593525ec.png" group-title="NASIONAL TV" ,ANTEVE TV
 #http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqQjZXUWZ3bXpiT3kxY2F4UGg3cm5ETT0
 
-#EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", MOJI TV
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+
 
 =
 ========= Sports ===========
+
+#EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="Sports", MOJI TV
+http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="indosiarTV 1" tvg-logo="http://www.recordjatim.id/wp-content/uploads/2026/07/IMG-20260708-WA0005-700x400.jpg" group-title="Sports", indosiar
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 #EXTINF:-1 tvg-id="Sportstars" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="Sports", Sportstars
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

@@ -139,9 +139,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
 
-#EXTINF:-1 group-title="NASIONAL TV"  tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png", RTV (vidio) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tvratu.my.id/nissa/index.mpd?id=1561&type=dash
+#EXTINF:-1 group-title="NASIONAL TV"  tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/rtv.png", RTV (mx) 
+http://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f4bd6cd9-d8a5-4f42-8dce-7f332ec55940.jpg" group-title="NASIONAL TV",RTV (D) 
 #EXTVLCOPT:http-referer=https://www.dens.tv/
@@ -428,7 +427,7 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179182
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfe78d70-6bbe-47a4-8175-0e5f43fc9ef7.png" group-title="NASIONAL TV",RCTI (R+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mRGl1yP.jpeg" group-title="NASIONAL TV",RCTI (R+)
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://thumbor.prod.vidiocdn.com/jWaIWbSyUoOND8iQ62WkIanAkdo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="NASIONAL TV", ANTV2
@@ -448,17 +447,17 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/5.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9a/e3/77/9ae3777d14f76dd3aa6e22c87763733b.jpg" group-title="NASIONAL TV",MNCTV (R+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CuEkKIL.jpeg" group-title="NASIONAL TV",MNCTV (R+)
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=mnctv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="NASIONAL TV",GTV (R+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6CUNdE.jpeg" group-title="NASIONAL TV",GTV (R+)
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="NASIONAL TV",INEWS (R+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tca6zd5.jpeg" group-title="NASIONAL TV",INEWS (R+)
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=inews
 
@@ -474,14 +473,13 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
 
 
 
-=
 ========= Sports ===========
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="Sports", MOJI TV
 http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-name="indosiarTV 1" tvg-logo="http://www.recordjatim.id/wp-content/uploads/2026/07/IMG-20260708-WA0005-700x400.jpg" group-title="Sports", indosiar
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+#http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
 
 #EXTINF:-1 tvg-id="Sportstars" tvg-name="Sportstars" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="Sports", Sportstars
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

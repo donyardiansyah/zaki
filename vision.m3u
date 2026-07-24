@@ -13,12 +13,8 @@
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="NASIONAL TV",Indosiar (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="NASIONAL TV",INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352863
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -28,11 +24,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-id="806.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5c547aea-58b4-403c-97cb-400d033b31eb.png" tvg-name="SCTV" group-title="NASIONAL TV", SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352869
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -276,10 +268,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="NASIONAL TV", Sindonews (Maxstream)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352912
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" tvg-id="Test" tvg-name="Test" , VTV
 

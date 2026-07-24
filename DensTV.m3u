@@ -46,9 +46,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV",RCTI HD
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
-https://cdn1.panensport.org/channel/500157591/index.m3u8
-
-#http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
+#https://cdn1.panensport.org/channel/500157591/index.m3u8
+http://ktpremium.site:2095/live/hakimlau536/Aaaa2345/73606.ts
 #http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3FPWEluNlByeTl1a0FScE9lK2ZhMD0
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/antv.png" group-title="NASIONAL TV",ANTV 
@@ -73,9 +72,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 #EXTINF:-1 tvg-id="801.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/60e453c7-ac97-4f20-b4cf-bc870b08f633.jpg" tvg-name="Trans 7" group-title="NASIONAL TV", Trans 7
 (TRV) 
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352902
+
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
-https://cdn1.panensport.org/channel/500162502/index.m3u8
+#https://cdn1.panensport.org/channel/500162502/index.m3u8
 #http://139.99.61.175:25461/M9005/6825/103
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="NASIONAL TV",TransTV HD (V+)
@@ -86,9 +87,11 @@ https://cdn1.panensport.org/channel/500162502/index.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2c196d7f-e680-4c64-8c17-22e790de164d.jpg" group-title="NASIONAL TV",TRANSTV 
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352901
+
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
-https://cdn1.panensport.org/channel/500162503/index.m3u8
+#https://cdn1.panensport.org/channel/500162503/index.m3u8
 #http://139.99.61.175:25461/M9005/6825/102
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/930c8097-dc6b-4161-b414-d7a70b0b8b98.png" group-title="NASIONAL TV",TvOne
@@ -150,11 +153,11 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://thumbor.prod.vidiocdn.com/f_h2OorvlQ_UEx9OjX7b8uQ4-gE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg", MOJI TV 
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
-https://cdn1.panensport.org/channel/500298550/index.m3u8
+#https://cdn1.panensport.org/channel/500298550/index.m3u8
 #http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqUDREWHdFVHcvSkRpZi9NaW90bUhWWT0
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", MOJI TV
-#http://157.15.187.3:25092/hls/50/50.m3u8
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352869
 
 #EXTINF:-1 tvg-logo="https://github.com/eepunx/canlog/raw/refs/heads/main/mdtv.png" group-title="NASIONAL TV",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -386,9 +389,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 ===========NASIONAL TV 2============
 
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="NASIONAL TV",Indosiar 
+http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352863
+
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
-https://cdn1.panensport.org/channel/500162138/index.m3u8
+#https://cdn1.panensport.org/channel/500162138/index.m3u8
 #http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
 #http://202.169.224.202:8800/udp/239.9.1.25:1234
 #http://filex.cc:8080/VUZ2Y3A2eXVPYWoxUXRmdUpLdUJqT3VZbW9zRlovenltNGFkekYzbmxETT0

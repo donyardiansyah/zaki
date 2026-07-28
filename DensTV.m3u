@@ -1116,8 +1116,8 @@ https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
-#EXTINF:-1  group-title="Premium Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
-https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1  group-title="Premium Movies" tvg-logo="https://img.catcast.tv/uploads/27062021/logos/40381-60d843d7d20b9.png",KNHO TV
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=ad900afd7e4e87468f64f93beacc0eb9&server=v2.catcast.tv
 
 #EXTINF:-1 tvg-logo="" group-title="Premium Movies" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 http://premiumtvs.space:80/live/Jen12345/Jen54321/415360.ts

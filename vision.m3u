@@ -13,7 +13,7 @@
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Sq4o7Q1.jpeg" group-title="NASIONAL TV",Indosiar (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
-#EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="NASIONAL TV",INDOSIAR 
+#EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://imgur.com/a/YlnlrwJ" group-title="NASIONAL TV",INDOSIAR 
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 

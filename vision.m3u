@@ -221,7 +221,7 @@ http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarmy8e0IEIfiknEtfWQPmMCtNfeEWKZ28Zjbm3HgRag&s" group-title="NASIONAL TV",Stara tv malang
+#EXTINF:-1 tvg-id="" tvg-name="stara tv" tvg-logo="https://i.imgur.com/FFdDsZW.jpeg" group-title="NASIONAL TV",Stara tv malang
 https://malang.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/gtl9BV8.jpeg" group-title="NASIONAL TV",Indonesiana TV 
@@ -269,7 +269,7 @@ https://e.siar.us/live/dmtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-#EXTINF:-1 group-title="NASIONAL TV" group-logo="https://i.imgur.com/vH16ap1.jpeg" tvg-id="CNBCAsia.id"  tvg-logo="https://i.imgur.com/kwfGZ2N.png",CNBC Indonesia
+#EXTINF:-1 group-title="NASIONAL TV" group-logo="https://i.imgur.com/2ozDdpl.jpeg" tvg-id="CNBCAsia.id"  tvg-logo="https://i.imgur.com/kwfGZ2N.png",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
@@ -316,7 +316,7 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://img.mbizmarket.co.id/products/thumbs/343x343/2022/08/26/05ec6ce3f5dd7ac9ce683463c276a672.jpg",Madu TV
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/QlCWB2v.jpeg",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -344,7 +344,7 @@ https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=21289
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV(D) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=MDTV
 
@@ -366,7 +366,7 @@ https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXH9rlQrNRaEebkrUd4s2_j5DW2UG2tawf_PoBgpKCege94BgLlOlm5wo&s=10TV", Jawa Pos
 
 
-#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpHeeejMBNPU0qFoo-J9Vg8IaaceROkNndrg&s" ,JITV Jogja
+#EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/mg8t252.jpeg" ,JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://www.visionplus.id/images/repository/074/569074-LOGO-m.png" group-title="NASIONAL TV",Mentari TV
@@ -450,7 +450,7 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179182
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="NASIONAL TV 2",TRANSTV
 #http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TVONE" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="NASIONAL TV",TVONE
+#EXTINF:-1 tvg-name="TVONE" tvg-logo="https://i.imgur.com/K31rMbd.jpeg" group-title="NASIONAL TV",TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=drm

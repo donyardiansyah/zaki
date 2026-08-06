@@ -52,8 +52,7 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179182
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
-#EXTINF:-1 group-logo="https://i.imgur.com/LIXv99J.jpeg"
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="NASIONAL TV", SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36 itu
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash

@@ -97,7 +97,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgi54sH.jpeg" group-title="NASIONAL TV",Trans 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="801.trans" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/60e453c7-ac97-4f20-b4cf-bc870b08f633.jpg" tvg-name="Trans 7" group-title="NASIONAL TV", Trans 7
 
@@ -110,7 +110,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15rAJXH.jpeg" group-title="NASIONAL TV",Trans TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nz9QVuR.jpeg" group-title="NASIONAL TV",TvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/

@@ -1,12 +1,12 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", AFF HYUNDAY
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
 https://live2.streambylivepulse.com/live/channel6.m3u8
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", AFF HYUNDAY
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
 #EXTVLCOPT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
@@ -16,7 +16,7 @@ https://live2.streambylivepulse.com/live/channel6.m3u8
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832584.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d02feee4883846b5dc22ba86b7c2a59b
+#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832584.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d02feee4883846b5dc22ba86b7c2a59b
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUzADKCEo4itspIXEph97xSKGE1ux0F7BV5OP7b_DKkQ&s=10", Piala Presiden
 #EXTVLCOPT:http-referrer=https://lxscore.com/
@@ -25,8 +25,6 @@ https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/l
 #https://hd-stream.lxscore.com/live/default-1847275.m3u8
 
 ======== NASIONAL TV--=====
-
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -52,7 +50,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -556,6 +553,13 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", 
 
 ========= Sports ===========
+#EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP FHD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sports",Sky Sport MotoGP FHD
+http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/4498.ts
+#EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP HD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sports",Sky Sport MotoGP HD
+http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/82.ts
+#EXTINF:-1 tvg-id="MotoGP" tvg-name="Sky Sport MotoGP SD" tvg-logo="http://service.myvisio.life:80/images/314a9a576595b9e7aa5bd1c8de1adf39.png" group-title="Sports",Sky Sport MotoGP SD
+http://20669a6d4k.redplus.me:80/live/ZtJ7vPQK3a/ybcUAyR9RG/49741.ts
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1156,58 +1160,6 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRISport.m3u8
 
 # HSBC BWF World Tour #
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18249&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18249&type=dash
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 1 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18249
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18249
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18250&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18250&type=dash
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 2 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18250
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18250
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18252&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18252&type=dash
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 3 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18252
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18252
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 4
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=18253&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
-
-#EXTINF:-1 tvg-logo="https://bwfworldtour.bwfbadminton.com/wp-content/uploads/2018/01/logo.jpg" group-title="HSBC BWF World Tour", BWF Court 4 (Alt)
-#EXTVLCOPT:http-user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=18253
-https://ratuvidio.adptv.workers.dev/index.mpd?id=18253
 
 
 <================================================================================= Premium Movies ==============================================================================#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 

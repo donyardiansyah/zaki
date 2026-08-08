@@ -1,10 +1,18 @@
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IwuKWK_oCmZ-MPbqigaIfJIgfrw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251255/7e5da2.jpg" group-title="LIVE-EVENT",MOJI
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_k-eR1Zlr_9fNgQAWdHkIsRN-9U=/960x576/filters:quality(70)/vidio-media-production/uploads/livestreaming/schedule/mobile_headline_image/5251256/women-thailand-vs-indonesia-sea-v-cup-a4ca6e.jpg" group-title="LIVE-EVENT",MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Allinone/21811.drm
 https://aspaltvpasti.top/Allinone/21811.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j4P24hn.jpeg" group-title="LIVE-EVENT", ONE SPORTS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY

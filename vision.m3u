@@ -190,6 +190,14 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png" group-title="NASIONAL TV", MOJI TV 
 
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV(D) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=MDTV
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -201,6 +209,7 @@ http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/EzirkhZ.jpeg",NUSANTARATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="MDTV" group-title="NASIONAL TV" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/N19eGsM.jpeg",MDTV 
@@ -386,16 +395,10 @@ https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.drm?id=21289
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV(D) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=MDTV
-
-
 #EXTINF:-1 tvg-id="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkr8F2Qxx5RWhWoA1lVAcMfNoN16gQm7CxpEovwdA&s=0" group-title="NASIONAL TV",MDTV FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/

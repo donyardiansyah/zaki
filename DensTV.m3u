@@ -9,8 +9,9 @@ https://aspaltvpasti.top/Allinone/21811.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j4P24hn.jpeg" group-title="LIVE-EVENT", ONE SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
@@ -778,7 +779,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/WgiIRQi.jpeg" tvg-id="itzplay.id" group-title="Sports",United Kingdom (TNT Sports 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgiIRQi.jpeg" tvg-id="itzplay.id" group-title="Sports",United Kingdom (TNT Sports 1)
 http://wickediptv.xyz/Randall123/Randall321/53850
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNczxwH.jpeg" tvg-id="itzplay.id" group-title="Sports",United Kingdom (TNT Sports 2)

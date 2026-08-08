@@ -310,7 +310,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTINF:-1 tvg-id="jowo channel - [Channel 78].id" tvg-name="jowochannel" tvg-logo="https://i.imgur.com/IkMDTPJ.jpeg" group-title="NASIONAL TV", JOWO CHANNEL
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIkkouI.jpeg" group-title="NASIONAL TV", DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8

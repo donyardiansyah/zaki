@@ -25,7 +25,6 @@ https://live2.streambylivepulse.com/live/channel6.m3u8
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
-#EXTVLCOPT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 #https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=b0f82b4b26e893819b03f4bbb1e7a271&wsABSTime=1785520109
@@ -96,7 +95,8 @@ https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/18.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 

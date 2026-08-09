@@ -4,8 +4,12 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Allinone/21811.drm
-https://aspaltvpasti.top/Allinone/21811.mpd
+#https://aspaltvpasti.top/Allinone/21811.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/zdEOjQB.jpeg" group-title="LIVE-EVENT", Vnl cctv16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j4P24hn.jpeg" group-title="LIVE-EVENT", ONE SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

@@ -6,10 +6,10 @@
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Allinone/21811.drm
 #https://aspaltvpasti.top/Allinone/21811.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/zdEOjQB.jpeg" group-title="LIVE-EVENT", Vnl cctv16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+
+#EXTINF:-1 tvg-id="Volly" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/zdEOjQB.jpeg" group-title="LIVE-EVENT", voly
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/16.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j4P24hn.jpeg" group-title="LIVE-EVENT", ONE SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -66,8 +66,12 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
+#EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/pssPanX.jpeg" group-title="NASIONAL TV",INDOSIAR 
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/18.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -198,7 +202,8 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/23.ts
+#http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t

@@ -9,7 +9,7 @@
 
 
 #EXTINF:-1 tvg-id="Volly" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/zdEOjQB.jpeg" group-title="LIVE-EVENT", voly
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/16.ts
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j4P24hn.jpeg" group-title="LIVE-EVENT", ONE SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,7 +76,7 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 #http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/pssPanX.jpeg" group-title="NASIONAL TV",INDOSIAR 
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/18.ts
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/18.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -212,7 +212,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/23.ts
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/23.m3u8
 #http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect

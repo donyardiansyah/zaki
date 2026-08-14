@@ -562,10 +562,10 @@ $http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/pssPanX.jpeg" group-title="NASIONAL TV",INDOSIAR 
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/18.m3u8
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar%20hd
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", MOJI TV
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+#http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", 
 
@@ -653,11 +653,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/Champio
 #KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
 https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
 
-
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/1280px-TVRI_Sport_2022.svg.png" group-title="Sports", TVRI Sport
-
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1VJ8fS-Oh63MRSY0_9NSxm457-gypcqjOA&s" group-title="Sports",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8

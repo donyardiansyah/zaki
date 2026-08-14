@@ -7,7 +7,7 @@
 #https://aspaltvpasti.top/Allinone/21811.mpd
 
 #EXTINF:-1 tvg-id="Volly" tvg-name="CCTV-16" tvg-logo="https://i.imgur.com/zdEOjQB.jpeg" group-title="LIVE-EVENT", voly
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/16.m3u8
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/voly
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j4P24hn.jpeg" group-title="LIVE-EVENT", ONE SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +119,6 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 https://beetv.my.id/stream/vd.m3u8?ch=antv
 
-
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -204,8 +203,8 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji
-https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/23.m3u8
-#http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/voly
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -278,7 +277,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
-
 
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/8skh3QW.jpeg" group-title="NASIONAL TV" , JTV
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
@@ -478,7 +476,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #http://103.148.44.38:8000/play/a05g/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPPvYqzkwOXMETZze1T2nndRCxHhc43vfuHQ69byxMrO-yJJuGzx_N6mB&s=10" group-title="NASIONAL TV", sctv 1
-http://opplextv.cyou:8080/nasir6160/nasir/351030
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u8
 
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU_NbuJa40h-W8kJNpTnYjhn0MFJ_Z_xqdFIMOwzOEiLfHn1TM9jwNob0&s=10" group-title="NASIONAL TV", indosiar 1
@@ -490,8 +488,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV 2",RCTI (R+)
 
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV 2",RCTI
-
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV",RCTI
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/rcti
 
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 78].id" tvg-name="ANTV" tvg-logo="https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png" group-title="NASIONAL TV 2", ANTV

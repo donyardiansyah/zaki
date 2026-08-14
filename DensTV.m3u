@@ -563,7 +563,7 @@ $http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/pssPanX.jpeg" group-title="NASIONAL TV",INDOSIAR 
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Indosiar.m3u8
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", MOJI TV
 

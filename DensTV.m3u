@@ -370,6 +370,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://zanza.xn--hq1bj8i52lnjb61u.xn--t60b56a:8080/001stef/sWBNg2G5hP/352912
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" tvg-id="Test" tvg-name="Test" , VTV
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/islvIQu.jpegWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="NASIONAL TV",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8

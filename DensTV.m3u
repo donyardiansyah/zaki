@@ -583,7 +583,7 @@ $http://103.58.160.157:8278/720-TVRI/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", MOJI TV
-
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mojitvdigital.m3u8
 
 #EXTINF:-1 tvg-id="MOJITV.id" tvg-name="MOJITV 1" tvg-logo="https://pbs.twimg.com/media/GEWkbw2agAAMays.jpg" group-title="NASIONAL TV", 
 

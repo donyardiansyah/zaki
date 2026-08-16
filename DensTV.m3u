@@ -100,8 +100,8 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://ayo.maling.pl/V/vision/id=1.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -124,17 +124,17 @@ https://beetv.my.id/stream/vd.m3u8?ch=antv
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://ayo.maling.pl/V/vision/id=10.play
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/ANTV.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7
+https://ayo.maling.pl/V/vision/id=7.play
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/BwHHKPQ.jpeg" group-title="NASIONAL TV",Trans7 HD (V+)
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgi54sH.jpeg" group-title="NASIONAL TV",Trans 7 
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Trans7.m3u8
@@ -147,9 +147,9 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=6
+https://ayo.maling.pl/V/vision/id=6.play
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD (V+)
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15rAJXH.jpeg" group-title="NASIONAL TV",Trans TV 
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TransTV.m3u8
@@ -171,16 +171,16 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=12
+https://ayo.maling.pl/V/vision/id=12.play
 #EXTINF:-1 tvg-id="TVOne" group-title="NASIONAL TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/kixyq0o.jpeg",TVOne (V+)
-#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=2
+https://ayo.maling.pl/V/vision/id=2.play
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="NASIONAL TV",MNC TV (V+)
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="817.trans" tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-name="MNC TV" group-title="NASIONAL TV", MNC TV 2
 #EXTVLCOPT:http-user-agent=android-R+
@@ -193,9 +193,9 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=3
+https://ayo.maling.pl/V/vision/id=3.play
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/x0LtvW8.jpeg" group-title="NASIONAL TV",GTV (V+)
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-name="GTV" group-title="NASIONAL TV", GTV
 #EXTVLCOPT:http-user-agent=android-R+

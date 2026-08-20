@@ -26,12 +26,14 @@
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
+#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", DENSTV
+https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpaling_-Music_Video-_MP4_720p.mp4?rlkey=4vijacbz0mo0x0kywdua8buop&st=g1zg5yy0&dl=1
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", ASEAN CUP HYUNDAY
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1851822.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c389e710c38247410ada65a2ac34ba53
+#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1851822.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c389e710c38247410ada65a2ac34ba53
 
 =======fawa
 

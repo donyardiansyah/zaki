@@ -229,9 +229,12 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mojiOchann
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/440px-Moji_blue.svg.png" group-title="NASIONAL TV", MOJI TV 
 
 
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV(D) 
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/oaBCedP.jpeg" group-title="NASIONAL TV",MDTV(C) 
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV(D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=MDTV
+#https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8?app_type=web&userid=lite&chname=MDTV
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

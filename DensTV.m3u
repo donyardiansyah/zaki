@@ -503,8 +503,8 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar 1" tvg-logo="https://i.imgur.com/SjCylM5.jpeg" group-title="NASIONAL TV", indosiar 1
 http://31.43.191.125:8080/vip1601766507484/20d7282c8160/34327
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV 2",RCTI (R+)
-
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV", ANTV2
+http://xtvplayer.top:8080/4536546/6545653/350892
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yVAp-I5taVr05deb7vN5yXmnmv1ADgS9ew&s" group-title="NASIONAL TV",RCTI
 
@@ -515,8 +515,7 @@ http://31.43.191.125:8080/vip1601766507484/20d7282c8160/34327
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV", ANTV2
-http://xtvplayer.top:8080/live/4536546/6545653/350892.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg" group-title="NASIONAL TV 2",Trans7 FHD

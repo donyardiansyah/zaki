@@ -515,8 +515,8 @@ http://31.43.191.125:8080/vip1601766507484/20d7282c8160/34327
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://thumbor.prod.vidiocdn.com/jWaIWbSyUoOND8iQ62WkIanAkdo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="NASIONAL TV 2", ANTV2
-#http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV", ANTV2
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg" group-title="NASIONAL TV 2",Trans7 FHD
@@ -525,10 +525,11 @@ http://31.43.191.125:8080/vip1601766507484/20d7282c8160/34327
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 
 
-#EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.pinimg.com/236x/6f/02/9a/6f029a90f14d30427266dcd5e380130d.jpg" group-title="NASIONAL TV 2",TRANS7
-#http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
-#EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="NASIONAL TV 2",TRANSTV
-#http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+#EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8
+
+#EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.pinimg.com/236x/2b/77/d7/2b77d79d4a511b3ba7ada19a775426f8.jpg" group-title="NASIONAL TV",TRANSTV
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/transtv.m3u8
 
 #EXTINF:-1 tvg-name="METROTV" tvg-logo="https://i.pinimg.com/236x/4b/45/4e/4b454eb74521747ac61e2afb6b358ec2.jpg" group-title="NASIONAL TV 2",METROTV
 #http://103.58.160.157:8278/720-METROTV/playlist.m3u8

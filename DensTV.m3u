@@ -55,12 +55,8 @@ https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpalin
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
 
-#EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/VyquD34.jpeg" group-title="NASIONAL TV",INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 
-
-#EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/VyquD34.jpeg" group-title="NASIONAL TV",INDOSIAR 
+#EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -70,6 +66,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://vidsemar.pages.dev/terraluna/205.mpd
+
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
 #http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 

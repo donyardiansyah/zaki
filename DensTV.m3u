@@ -53,8 +53,12 @@
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Allinone/205.drm
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -65,7 +69,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=205
 
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
-#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -85,7 +89,10 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=205
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=204
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="NASIONAL TV", SCTV
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
@@ -137,11 +144,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8
-
+#https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV",anteve
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
+#https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
@@ -156,7 +162,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/transtv.m3u8
+#https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/transtv.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -461,19 +467,10 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR (emtek 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Allinone/205.drm
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="NASIONAL TV", SCTV (Emtek Alt 2)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+
 
 ===========NASIONAL TV 2============
 

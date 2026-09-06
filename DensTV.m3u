@@ -25,7 +25,7 @@
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854133.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=82947c22e6f70c2991c21e24effc9f92
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854136.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d43ea7b9bf95936c91b16010404f92e3
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", DENSTV
 #https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpaling_-Music_Video-_MP4_720p.mp4?rlkey=4vijacbz0mo0x0kywdua8buop&st=g1zg5yy0&dl=1
@@ -54,7 +54,7 @@ https://xxyznt1-cf.sbbol1011play.sbs/auth%3D3dc1ca3d37fff7b4dbbeaaefd43148d91712
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-https://raw.githubusercontent.com/B-inal-123/arabasta-s/main/indosiarTV.m3u8
+https://ogietv.biz.id:443/Livetv/234/1325.m3u8
 
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

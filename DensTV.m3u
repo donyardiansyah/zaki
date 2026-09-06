@@ -54,7 +54,7 @@ https://xxyznt1-cf.sbbol1011play.sbs/auth%3D3dc1ca3d37fff7b4dbbeaaefd43148d91712
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-https://ogietv.biz.id:443/Livetv/234/1325.m3u8
+https://ogietv.biz.id:443/live/Livetv/234/1325.ts
 
 #EXTINF:-1 tvg-id="INDOSIAR ID" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

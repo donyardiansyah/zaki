@@ -139,7 +139,7 @@ https://vidsemar.pages.dev/terraluna2/782.mpd
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7
-http://103.129.172.105:2222/stream/channelid/462854084?profile=pass
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV",anteve
 
@@ -157,7 +157,7 @@ http://103.129.172.105:2222/stream/channelid/462854084?profile=pass
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
-http://103.129.172.105:2222/stream/channelid/319887200?profile=pass
+https://ogietv.biz.id:443/live/Livetv/234/1310.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 

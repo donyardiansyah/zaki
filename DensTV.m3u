@@ -113,7 +113,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upiTVgc.jpeg" group-title="NASIONAL TV",ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/upiTVgc.jpeg" group-title="NASIONAL TV",ANTV vdo
@@ -121,6 +121,9 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vidsemar.pages.dev/terraluna2/782.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV",anteve
+https://ogietv.biz.id:443/live/Livetv/234/27383.ts
 
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -141,7 +144,6 @@ https://vidsemar.pages.dev/terraluna2/782.mpd
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV",anteve
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36

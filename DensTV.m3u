@@ -1,10 +1,5 @@
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_k-eR1Zlr_9fNgQAWdHkIsRN-9U=/960x576/filters:quality(70)/vidio-media-production/uploads/livestreaming/schedule/mobile_headline_image/5251256/women-thailand-vs-indonesia-sea-v-cup-a4ca6e.jpg" group-title="LIVE-EVENT",MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Allinone/21811.drm
-#https://aspaltvpasti.top/Allinone/21811.mpd
+https://ogietv.biz.id:443/live/Livetv/234/435.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" group-title="LIVE-EVENT", TEST
 

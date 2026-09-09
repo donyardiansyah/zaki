@@ -110,7 +110,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://vidsemar.pages.dev/terraluna2/782.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV",anteve
-https://ogietv.biz.id:443/live/Livetv/234/27383.ts
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
 
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

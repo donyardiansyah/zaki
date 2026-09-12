@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622765.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=89ec164170f0b68e92c2314995eb6920
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622764.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=097ae9b78f5f79708128e3096a3c06ba
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", DENSTV
 http://syok.tv:25461/amin8293/syk515/2415
@@ -149,8 +149,8 @@ http://syok.tv:25461/amin8293/syk515/1941
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
-http://syok.tv:25461/amin8293/syk515/1942
-#https://ogietv.biz.id:443/live/Livetv/234/1310.ts
+#http://syok.tv:25461/amin8293/syk515/1942
+https://ogietv.biz.id:443/live/Livetv/234/1310.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 

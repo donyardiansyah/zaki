@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m
 https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622765.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=89ec164170f0b68e92c2314995eb6920
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", DENSTV
-
+http://syok.tv:25461/amin8293/syk515/2415
 #https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpaling_-Music_Video-_MP4_720p.mp4?rlkey=4vijacbz0mo0x0kywdua8buop&st=g1zg5yy0&dl=1
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg", BRI SUPER LEAGUE 2
@@ -140,7 +140,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
+http://syok.tv:25461/amin8293/syk515/1941
+#http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -150,7 +151,8 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
-https://ogietv.biz.id:443/live/Livetv/234/1310.ts
+http://syok.tv:25461/amin8293/syk515/1942
+#https://ogietv.biz.id:443/live/Livetv/234/1310.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
@@ -267,8 +269,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 
 #EXTINF:-1 tvg-id="Tvri Sport - [Channel 78].id" tvg-name="Tvri Sport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501750_tvchannels_v1.jpg" group-title="NASIONAL TV", Tvri Sport
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://syok.tv:25461/amin8293/syk515/23096
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/DLVLkH6.jpeg",Metro TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1

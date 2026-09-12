@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Voli_TV.png" group-title="LIVE-EVENT",VOLLI TV
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/volitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SjCylM5.jpeg" group-title="LIVE-EVENT", TEST
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="LIVE-EVENT",Bri Super League
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
@@ -41,16 +41,19 @@ https://xyzna2-cf.sbbol1011play.sbs/auth%3D9cac82ec18668b4943b579d5403ed1e6a1f00
 #http://193.47.62.191/hls/FAFAFAFAZZZZ.m3u8
 
 ======== NASIONAL TV--=====
-
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/SjCylM5.jpeg" group-title="NASIONAL TV",Indosiar HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9&type=fitnah
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/Sq4o7Q1.jpeg" group-title="NASIONAL TV",Indosiar (V+)
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
+
+
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR VDO
@@ -79,7 +82,9 @@ https://vidsemar.pages.dev/terraluna2/205.mpd
 https://vidsemar.pages.dev/terraluna2/204.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="NASIONAL TV", SCTV
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://livestream.biznetvideo.net/sctv/smil:sctv.smil/index.m3u8
+#https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/sKb8EMl.jpeg" group-title="NASIONAL TV",RCTI HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/

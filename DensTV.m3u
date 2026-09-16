@@ -74,9 +74,10 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m
 
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR VDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna2/205.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205&type=drm
+https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
 #KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
 
@@ -92,10 +93,11 @@ https://vidsemar.pages.dev/terraluna2/205.mpd
 
 
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="NASIONAL TV",SCTV vdo
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna2/204.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204&type=drm
+https://tvratu.my.id/vid/index.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36

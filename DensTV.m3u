@@ -139,17 +139,17 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
 
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD (V+)
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS7 C
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
-
+https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nz9QVuR.jpeg" group-title="NASIONAL TV",TvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -301,7 +301,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PfH7DFq.jpeg" group-title="NASIONAL TV",CNN Indo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/5tofHrf.jpeg", BTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/

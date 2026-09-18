@@ -2,7 +2,10 @@
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/volitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg" group-title="LIVE-EVENT",Bri Super League
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ligaBRI.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205
+https://tvratu.my.id/vid/index.mpd?id=205
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" refresh="3600"
@@ -28,7 +31,9 @@ http://syok.tv:25461/amin8293/syk515/2415
 #https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpaling_-Music_Video-_MP4_720p.mp4?rlkey=4vijacbz0mo0x0kywdua8buop&st=g1zg5yy0&dl=1
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg", BRI SUPER LEAGUE 2
-http://filex.me:8080/live/3114654477/5787654467/302264.ts
+https://live3.dyrur1.com/live/73576634_54f4516666701f63bb9173c8782d5852_1080p.m3u8?auth_key=1789747440-0-0-49a3a36cbf825f7fa749e7572a0d1998
+https://pull.streamviewk7x.click/livesp/sd-6MxiKav4RtRZ1E415L_hd.m3u8?txSecret=76a6eb15e45c77eb190f226c9bad4b56&txTime=6AAE7940
+#http://filex.me:8080/live/3114654477/5787654467/302264.ts
 
 #EXTVLCOPT:http-referrer=https://ppdd19.playaindg12.xyz/
 #EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz

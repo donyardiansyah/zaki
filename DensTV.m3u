@@ -23,7 +23,7 @@ https://tvratu.my.id/vid/index.mpd?id=205
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622777.m3u8?edge_slice=true&sub_m3u8=true&hwTime=6aae82c6&user_session_id=9e33efcdf5a8ba8ba9ed9cc8d7e0c4bf&hwSecret=d5e43329e4cdcc4ff24b12a409a6184b29fef20f3066c7a93a213fc9f91a1753
+#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622777.m3u8?edge_slice=true&sub_m3u8=true&hwTime=6aae82c6&user_session_id=9e33efcdf5a8ba8ba9ed9cc8d7e0c4bf&hwSecret=d5e43329e4cdcc4ff24b12a409a6184b29fef20f3066c7a93a213fc9f91a1753
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", DENSTV
 https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpaling_-Music_Video-_MP4_720p.mp4?rlkey=4vijacbz0mo0x0kywdua8buop&st=g1zg5yy0&dl=1
@@ -35,14 +35,6 @@ https://www.dropbox.com/scl/fi/y1fxld6mywp8rik6ty0t0/Slam_-_Tak_Mungkin_Berpalin
 #EXTVLCOPT:http-origin=https://ppdd19.playaindg12.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #https://xyzna2-cf.sbbol1011play.sbs/auth%3D9cac82ec18668b4943b579d5403ed1e6a1f00d7b3f53da30448dc2274e158b330680f6ba276f792364d176d0ac453000490f562d8d7dab446e1ba0dd1fee3aeae2c1d3b9963790c9f2eb136fae4ca9e549431818dd025cf827f4142d9fb3f86c4cb82fd906cbee05cd99accfc39193ada37435d30488f6d6afbdedf4f43b1a959ea39436d93b3cd0837c0496d7f314b85d4f49d45672f602b35554f8e52edbb8%26cid%3D1q9m1ORfaBxOeZ3xAgxrW260911%26_v%3D2%26_r%3DN7Rpf5%26_vis%3Df20ced197abc33da3ac0899d781f2e35038f34e9769449af620663d848e28a13%26_vvs%3D6c60fbbd6fd8a9271cca9e73cb2ecbf2d229624b725a129fd5576a7ec83f8879%26_vas%3De879f4a114a8dd006904ad30c84e27f6dbeca5b9d32ed32bc1f3830cf75f5686/app/c437249.m3u8
-
-=======fawa
-
-#EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 18:00 WIB Manchester City vs Atlético Madrid
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#http://193.47.62.191/hls/FAFAFAFAZZZZ.m3u8
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmq0OJbv9jEWF9eTy9B5C4IVkfWVJ1A3bqIw&s", LIGA SERIE A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -108,18 +100,9 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
-
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://i.imgur.com/upiTVgc.jpeg" group-title="NASIONAL TV",ANTV vdo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/De10YpD.jpeg" group-title="NASIONAL TV",anteve
-
-#EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
-#http://syok.tv:25461/amin8293/syk515/1544
+
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="NASIONAL TV",Trans7 HD
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/tran7.m3u8

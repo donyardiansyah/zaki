@@ -18,7 +18,7 @@ https://tvratu.my.id/vid/index.mpd?id=205
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-#https://live1.streambylivepulse.com/live/channel5.m3u8?wsSecret=b0f82b4b26e893819b03f4bbb1e7a271&wsABSTime=1785520109
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622774.m3u8?hwTime=6aae4e86&hwSecret=83b9b3da9cde916ffe2bf118b973c0435cdebd47f8757390b740aff893920fec&user_session_id=50109c485f9fc8f19c4665e38296a476&edge_slice=true&sub_m3u8=true
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg",BRI SUPER LEAGUE
 #EXTVLCOPT:http-referrer=https://lxscore.com/

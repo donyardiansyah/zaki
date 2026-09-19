@@ -18,13 +18,13 @@ https://tvratu.my.id/vid/index.mpd?id=205
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDk8rZulZVtw62d5FjYv_HiNygoCr06Z-sjJDpeR8jSg&s=10", ASEAN CUP HYUNDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622774.m3u8?hwTime=6aae4e86&hwSecret=83b9b3da9cde916ffe2bf118b973c0435cdebd47f8757390b740aff893920fec&user_session_id=50109c485f9fc8f19c4665e38296a476&edge_slice=true&sub_m3u8=true
+5cdebd47f8757390b740aff893920fec&user_session_id=50109c485f9fc8f19c4665e38296a476&edge_slice=true&sub_m3u8=true
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/Jo2sCpR.jpeg",BRI SUPER LEAGUE
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-origin=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://hd-stream.prohades.com/live/default-1622775.m3u8?hwSecret=6beaa4541cab2e919542948331a3b67c0069814dcbc03f0bf66b148ceae07e0d&hwTime=6aae4f6ebd6bbbcea0d64f3727df7
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622774.m3u8?hwTime=6aae4e86&hwSecret=83b9b3da9cde916ffe2bf118b973c043d6bbbcea0d64f3727df7
 
 #EXTINF:-1 group-title="LIVE-EVENT" tvg-logo="https://i.imgur.com/8G6A57Z.png", DENSTV
 http://syok.tv:25461/amin8293/syk515/2415

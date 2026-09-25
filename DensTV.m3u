@@ -8,7 +8,8 @@
 #http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-http://filex.me:8080/3114654477/5787654467/302264
+http://013tv.com:8080/F33848/cbd9779b/162138
+#http://filex.me:8080/3114654477/5787654467/302264
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",Indosiar vdo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

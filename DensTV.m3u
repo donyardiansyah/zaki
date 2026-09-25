@@ -8,7 +8,7 @@
 #http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264
+http://filex.me:8080/3114654477/5787654467
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",Indosiar vdo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -30,7 +30,7 @@ https://vidsemar.pages.dev/terraluna2/204.mpd
 http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/Sjgp8ZB.jpeg" tvg-id="RCTI" tvg-name="RCTI" , RCTI OK
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
+http://filex.me:8080/3114654477/5787654467/302297
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/sKb8EMl.jpeg" group-title="NASIONAL TV",RCTI HD (V+)
 #http://syok.tv:25461/amin8293/syk515/2105
@@ -48,7 +48,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302206
+http://filex.me:8080/3114654477/5787654467/302206
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="NASIONAL TV",TRANS7
  HD
@@ -65,7 +65,7 @@ https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
+http://filex.me:8080/3114654477/5787654467/302312
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nz9QVuR.jpeg" group-title="NASIONAL TV",TvOne
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -80,7 +80,7 @@ https://flv.intechmedia.net/live/ch109.m3u8
 
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="NASIONAL TV",MNC TV hd
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
+http://filex.me:8080/3114654477/5787654467/302278
 
 #EXTINF:-1 tvg-id="817.trans" tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-name="MNC TV" group-title="NASIONAL TV", MNC TV 2
 #EXTVLCOPT:http-user-agent=android-R+
@@ -108,7 +108,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lit
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji
  hd
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302279
+http://filex.me:8080/3114654477/5787654467/302279
 
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/oaBCedP.jpeg" group-title="NASIONAL TV",MDTV(C) 
@@ -161,7 +161,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/zXwjQyE.jpeg",inewstv hd
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/501254
+http://filex.me:8080/3114654477/5787654467/501254
 
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/o66RL3F.jpeg" group-title="NASIONAL TV",iNews TV
@@ -284,12 +284,9 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 group-title="NASIONAL TV" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/N13edOC.jpeg",ABTV KEDIRI
 https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 
-
-
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/PE8YCX1.jpeg" group-title="NASIONAL TV", Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
-
 
 #EXTINF:-1 tvg-id="Citra.Plus.id" tvg-name="Citra Plus" tvg-logo="https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/citra_plus.png" group-title="NASIONAL TV", Citra Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -301,8 +298,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/S2/mnf.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
-
-
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/mg8t252.jpeg" ,JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8

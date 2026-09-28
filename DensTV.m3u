@@ -11,7 +11,6 @@ http://filex.me:8080/3114654477/5787654467/302264
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205
 https://tvratu.my.id/vid/index.mpd?id=205
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="NASIONAL TV",SCTV (emtek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -249,13 +248,13 @@ https://e.siar.us/live/dmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlWRvqf.jpeg" group-title="NASIONAL TV",Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=89
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTINF:-1 group-title="NASIONAL TV" group-logo="https://i.imgur.com/2ozDdpl.jpeg" tvg-id="CNBCAsia.id"  tvg-logo="https://i.imgur.com/2ozDdpl.jpeg",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
 
 #EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-name="Sindo News TV" tvg-logo="https://i.imgur.com/z8QKZdo.jpeg" group-title="NASIONAL TV", Sindonews (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/

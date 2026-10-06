@@ -8,8 +8,7 @@
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-http://filex.asia:8080/1234567/7654321/302264
-#http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247933
+http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247933
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR (emtek 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -29,15 +28,13 @@ https://tvratu.my.id/vid/index.mpd?id=204
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=8
 #EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/xn5FNew.jpeg" group-title="NASIONAL TV",SCTV (V+)
-
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="NASIONAL TV", SCTV
 #http://013tv.com:8080/F12744/346751ce/162141
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/Sjgp8ZB.jpeg" tvg-id="RCTI" tvg-name="RCTI" , RCTI OK
-http://filex.asia:8080/1234567/7654321/302297
-#http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/830548
+http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/830548
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/sKb8EMl.jpeg" group-title="NASIONAL TV",RCTI HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -71,8 +68,7 @@ https://tvratu.my.id/vid/index.mpd?id=782
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD
-http://filex.asia:8080/1234567/7654321/302206
-#http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/584497
+http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/584497
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="NASIONAL TV",TRANS HD
 http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
@@ -86,11 +82,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS 7
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://green-night-d2b4.iontv.workers.dev/trans7.m3u8
+
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD 
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
-https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
+
 
 #EXTINF:-1 tvg-name="TRANSTV" tvg-logo="https://i.imgur.com/nZkEVmb.jpeg" group-title="NASIONAL TV",TRANSTV
 http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/584538
@@ -135,8 +131,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/x0LtvW8.jpeg" group-title="NASIONAL TV",GTV hd
-http://filex.asia:8080/1234567/7654321/302247
-#http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/34331.m3u8
+http://31.43.191.125:8080/live/VIP019201762490519102/18754640ce7b/34331.m3u8
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-name="GTV" group-title="NASIONAL TV", GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -155,8 +150,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji hd
-http://filex.asia:8080/1234567/7654321/302279
-#http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247938
+http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247938
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/oaBCedP.jpeg" group-title="NASIONAL TV",MDTV(C) 
 http://202.150.161.212:5000/live/channel31/playlist.m3u8

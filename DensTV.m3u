@@ -8,7 +8,7 @@
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-http://ktpremium.world:2095/oc100138/3826778900/73613
+http://ktpremium.world:2095/oc100138/3826778900/73617
 #http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247933
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR (emtek 
@@ -71,7 +71,8 @@ http://ktpremium.world:2095/oc100138/3826778900/73618
 #http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/584497
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="NASIONAL TV",TRANS7 HD
-#http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
+http://ktpremium.world:2095/oc100138/3826778900/73609
+http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/BwHHKPQ.jpeg" group-title="NASIONAL TV",Trans7 HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -81,7 +82,7 @@ http://ktpremium.world:2095/oc100138/3826778900/73618
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/DD90FDH.jpeg" group-title="NASIONAL TV",TRANS 7
-http://ktpremium.world:2095/oc100138/3826778900/73609
+
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD 
 http://ktpremium.world:2095/oc100138/3826778900/73608
@@ -150,11 +151,9 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji hd
-http://ktpremium.world:2095/oc100138/3826778900/901194
 http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247938
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/oaBCedP.jpeg" group-title="NASIONAL TV",MDTV(C) 
-http://ktpremium.world:2095/oc100138/3826778900/1106292
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/N19eGsM.jpeg" group-title="NASIONAL TV",MDTV(D
@@ -177,6 +176,7 @@ http://sthuuuhj.itransat.net:80/ZZKG5XY/PZ3MOHJztJ/1247867
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="MDTV" group-title="NASIONAL TV" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/N19eGsM.jpeg",MDTV 
+http://ktpremium.world:2095/oc100138/3826778900/1106292
 
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/VMOcefA.jpeg" group-title="NASIONAL TV" ,SINPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

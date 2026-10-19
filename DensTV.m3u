@@ -2,7 +2,7 @@
 ======== NASIONAL TV--=====
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/ocXsicn.jpeg" group-title="NASIONAL TV", Indosiar 
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ligaBRI.m3u8
+http://goldenid.online/live/vlmafeso/feso/25686.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exHEZba.jpeg" group-title="NASIONAL TV",INDOSIAR (emtek 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ligaBRI.m3
 https://vidsemar.pages.dev/terraluna3/205.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyHchKH.jpeg" group-title="NASIONAL TV",SCTV 
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u8
+http://goldenid.online/live/vlmafeso/feso/25688.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LIXv99J.jpeg" group-title="NASIONAL TV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/ANTEVE.m3u
 https://vidsemar.pages.dev/terraluna3/204.mpd
 
 #EXTINF:-1 group-title="NASIONAL TV" tvg-logo="https://i.imgur.com/Sjgp8ZB.jpeg" tvg-id="RCTI" tvg-name="RCTI" , RCTI OK
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/rcti.m3u8
+http://goldenid.online/live/vlmafeso/feso/25665.ts
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/sKb8EMl.jpeg" group-title="NASIONAL TV",RCTI HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -56,11 +56,10 @@ https://vidsemar.pages.dev/terraluna3/782.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.imgur.com/kPWs50J.jpeg" group-title="NASIONAL TV",ANTV HD
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/antv.m3u8
+http://goldenid.online/live/vlmafeso/feso/25718.ts
 
 #EXTINF:-1 tvg-name="TRANS7" tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="NASIONAL TV",TRANS7 HD
-http://ktpremium.world:2095/oc100138/3826778900/73609
-http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
+http://goldenid.online/live/vlmafeso/feso/25681.ts
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/BwHHKPQ.jpeg" group-title="NASIONAL TV",Trans7 HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -70,7 +69,7 @@ http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD 
-http://ktpremium.world:2095/oc100138/3826778900/73608
+http://goldenid.online/live/vlmafeso/feso/25684.ts
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/OTsfSpu.jpeg" group-title="NASIONAL TV",TransTV HD (V+)
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -93,7 +92,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://i.imgur.com/7xdcxPm.jpeg" group-title="NASIONAL TV",MNC TV hd
-https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/mnctv.m3u8
+http://goldenid.online/live/vlmafeso/feso/25666.ts
 
 #EXTINF:-1 tvg-id="817.trans" tvg-logo="https://i.imgur.com/jvfFLE7.jpeg" tvg-name="MNC TV" group-title="NASIONAL TV", MNC TV 2
 #EXTVLCOPT:http-user-agent=android-R+
@@ -109,7 +108,7 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/x0LtvW8.jpeg" group-title="NASIONAL TV",GTV hd
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/9
+http://goldenid.online/live/vlmafeso/feso/25667.ts
 
 #EXTINF:-1 tvg-id="809.trans" tvg-logo="https://i.imgur.com/7LnO8iZ.jpeg" tvg-name="GTV" group-title="NASIONAL TV", GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -129,7 +128,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuser
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/xqPgGT4.jpeg" group-title="NASIONAL TV",Moji hd
-https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/23
+http://goldenid.online/live/vlmafeso/feso/25764.ts
 
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="" tvg-logo="https://i.imgur.com/oaBCedP.jpeg" group-title="NASIONAL TV",MDTV hd
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/19

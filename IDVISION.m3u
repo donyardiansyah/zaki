@@ -236,7 +236,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=46
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Channel Indonesia",TvN movies HD
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
@@ -289,25 +288,6 @@ https://cianjur.staratv.id/hls/0/stream.m3u8
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://malang.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvsP7kcYHiXYfhANpz1m5X-Maw2aOB2l3b8d_g2fr5&s=10" group-title="Channel Indonesia", PUJA TV ACEH
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://pujatv.siar.us/live/pujatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Logo_MIC_Channel.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Channel Indonesia", MIC TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://mic.siar.us/mic/live/mic_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/HFmJZf1.png" group-title="Channel Indonesia", Sangaji TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Channel Indonesia", Salira TV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://live.salira.tv/p/3870/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/1200px-Logo_MQTV.png" group-title="Channel Indonesia", MQTV
-#EXTVLCOPT:http-referrer=https://tv.garden/
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w107392989.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -316,11 +296,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcmjRhXIR9SlRTq-mcfYYBP_jIYSm0s18u6g&s" group-title="Channel Indonesia", BTV
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/d0UXGiG.md.png" group-title="Channel Indonesia", CarubanTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
-
 
 #EXTINF:-1 group-title="Channel Indonesia" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" tvg-id="50" ,iMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -371,7 +346,6 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhEdi5R.png" group-title="Channel Indonesia", CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -414,11 +388,6 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 group-title="Channel Indonesia" ,Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1  group-title="Channel Indonesia",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-
-#EXTINF:-1  group-title="Channel Indonesia",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -429,14 +398,6 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 group-title="Channel Indonesia" ,Dhoho TV- Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id=""  group-title="Channel Indonesia",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 ================================================ HBO =====================================================
 #EXTINF:-1 tvg-id="HBO" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO 2

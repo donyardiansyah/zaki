@@ -307,7 +307,8 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=68
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
+https://proxy-v.rctiplus.id/live/web/hitsnow/index.m3u8
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
 
 #EXTINF:-1 tvg-id="HITS.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="Premium Movies",Hits (Vision+)
@@ -321,9 +322,7 @@ https://proxy-v.rctiplus.id/live/web/hits/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42&type=drm&token=KITKATTV
-
 https://proxy-v.rctiplus.id/live/web/hitsmovies/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="Premium Movies",AXN (Vision+)
@@ -346,12 +345,10 @@ https://proxy-v.rctiplus.id/live/web/galaxypremium/index.m3u8
 https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 
 
-
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi",KIX (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/kix/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil (Vision+)

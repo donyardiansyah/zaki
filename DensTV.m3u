@@ -40,23 +40,17 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 https://rplus.inisemar.my.id/rcti.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-N_0k0cSR1zk/YJVWtdKJoGI/AAAAAAAAEaA/ivzKsgr5DuA_0HYBROzCr_7rSR62H5_sQCLcBGAsYHQ/s720/ANTV-p.png" group-title="Channel Indonesia",ANTV hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jWaIWbSyUoOND8iQ62WkIanAkdo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-96a4e9.jpg" group-title="Channel Indonesia",ANTV V+
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://www.visionplus.id
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-k9jeEmQ0zvA/YJVWxm2wOlI/AAAAAAAAEbA/P0QG8KqOe5oE1C8soEtwQD-CbmC7Z357wCLcBGAsYHQ/s720/trans-p.png" group-title="Channel Indonesia", Trans TV 
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -66,13 +60,13 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,f_auto,q_auto:best,w_640/v1634025439/01gpdtmzpk76vm8kywvrjtfb80.jpg" group-title="Channel Indonesia", Trans TV V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+#EXTVLCOPT:http-referrer=http://tvking.xyz
+http://tvking.xyz:8080/Syednasrullah/kng1714/5151
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="Channel Indonesia", Trans 7 V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+#EXTVLCOPT:http-referrer=http://tvking.xyz/
+http://tvking.xyz:8080/Syednasrullah/kng1714/5149
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2OB89yMf1x4/YJVWx6maqBI/AAAAAAAAEbE/XvZpwUPalxAot86riP6LUkw5RNRaNWHeQCLcBGAsYHQ/s720/trans7-p.png" group-title="Channel Indonesia",Trans7 HD 
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
@@ -128,12 +122,10 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #https://beetv.my.id/jabingan/rcti.m3u8?id=4
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="Channel Indonesia",SindoNews V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
-
 
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.imgur.com/8skh3QW.jpeg" group-title="Channel Indonesia" , JTV
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
@@ -186,11 +178,9 @@ https://proxy-v.rctiplus.id/live/web/kidstv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://proxy-v.rctiplus.id/live/web/tvri/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="Channel Indonesia", STARA TV Malang
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://malang.staratv.id/hls/0/stream.m3u8
-
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -283,7 +273,6 @@ https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png" group-title="Channel Indonesia", Dhoho tv
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -291,7 +280,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://www.visionplus.id/images/repository/376/612376-LOGO-m.png" tvg-id="68" ,Hits Now
@@ -1482,7 +1470,7 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
 
 #EXTINF:-1 group-title="IP-TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" tvg-id="ntv.de" ,ID: ANTV HD
-http://filex.asia:8080/1234567/7654321/302206
+http://tvking.xyz:8080/Syednasrullah/kng1714/5124
 
 #EXTINF:-1 group-title="IP-TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" ,ID: MOJI HD
 http://filex.asia:8080/1234567/7654321/302279

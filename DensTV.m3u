@@ -12,6 +12,7 @@
 https://vidsemar.pages.dev/terraluna3/205.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id@SDr" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="Channel Indonesia",Indosiar (Vision+)
+#EXTVLCOPT:http-referrer=http://tvking.xyz
 http://tvking.xyz:8080/Syednasrullah/kng1714/5117
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Jrub7s9M-8o/YJVWxmOMmiI/AAAAAAAAEa8/fHKx6VD5nc4FAZtBgDwAwviX1UVzVVLKACLcBGAsYHQ/s720/sctv-p.png" group-title="Channel Indonesia",SCTV HD

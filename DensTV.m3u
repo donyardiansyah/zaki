@@ -1466,7 +1466,7 @@ https://vidsemar.pages.dev/terraluna3/782.mpd
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="IP-TV", indo
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://1.bp.blogspot.com/-sr_JztcW1i0/YJVWujZQJMI/AAAAAAAAEaU/3E_UVUSecGgVGKfzk_SUgeVrejjIo4LDACLcBGAsYHQ/s720/indosiar-p.png" group-title="IP-TV", indo
 https://raw.githubusercontent.com/donyardiansyah/zaki/refs/heads/main/indosiar.m3u8
 
 #EXTINF:-1 group-title="IP-TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" tvg-id="ntv.de" ,ID: ANTV HD

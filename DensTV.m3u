@@ -687,9 +687,9 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
 #https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIGA ITALIA", SERIE A SPORT TV6
-#http://fr5k.com:8080/9936568318240943/9936568318240943/281674
-
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/b5KV71b2/SERIEA.png" group-title="LIGA ITALIA", SERIE A KNHO
+https://v2.catcast.tv/content/40381/index.m3u8
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40381&token=2dc9217349ea75744830537de9929313&server=v2.catcast.tv
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/XZ2KYC0k/eredevise.png" group-title="LIGA ITALIA", EREDIVISIE SPORTDIGITAL FUSSBALL
 #KODIPROP:inputstream=inputstream.adaptive
